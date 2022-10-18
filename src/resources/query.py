@@ -11,15 +11,15 @@ class Query:
         En función de la key retornará la función en forma de string (Que luego será interpretada)
     """
     operators={
-        'gt':'float({}) > float({})',
-        'lt':'float({}) < float({})',
-        'gte':'float({}) >= float({})',
-        'lte':'float({}) <= float({})',
+        'gt':'float({}) < float({})',
+        'lt':'float({}) > float({})',
+        'gte':'float({}) <= float({})',
+        'lte':'float({}) >= float({})',
         'eq':'"{}" == "{}"',
-        'in':'"{}" in "{}"',
-        'out':'"{}" not in "{}"',
-        'before':'datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y") < datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y")',
-        'after':'datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y") > datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y")'
+        'in':'"{}" in "{}".split(",")',
+        'out':'"{}" not in "{}".split(",")',
+        'before':'datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y") > datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y")',
+        'after':'datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y") < datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y")'
     }
 
     checks={
@@ -30,20 +30,8 @@ class Query:
         'eq':'1==1',
         'in':'1==1',
         'out':'1==1',
-        'before':'try: datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y")',
+        'before':'datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y")',
         'after':'datetime.datetime.strptime("{}".replace("/","-"), "%d-%m-%Y")'
-    }
-
-    errors={
-        'gt':'Un valor para un condicionante "gt" no es correcto. Valor introducido: {}',
-        'lt':'Un valor para un condicionante "gt" no es correcto Valor introducido: {}',
-        'gte':'Un valor para un condicionante "gte" no es correcto Valor introducido: {}',
-        'lte':'Un valor para un condicionante "lte" no es correcto Valor introducido: {}',
-        'eq':'Un valor para un condicionante "eq" no es correcto Valor introducido: {}',
-        'in':'Un valor para un condicionante "in" no es correcto Valor introducido: {}',
-        'out':'Un valor para un condicionante "out" no es correcto Valor introducido: {}',
-        'before':'Un valor para un condicionante "before" no es correcto Valor introducido: {}',
-        'after':'Un valor para un condicionante "after" no es correcto Valor introducido: {}',
     }
 
     def __init__(self, database : str):
@@ -201,7 +189,7 @@ class Query:
         for e in query:
             for i in query[e]:
                 '''Accederemos al diccionario declarado al principio para mediante eval() desarrollar según la key que le pasemos como parámetro, su respectiva función'''
-                if (eval(self.operators[str(i['cond'])].format((schema[e]),i['value'])) == False):
+                if (eval(self.operators[str(i['cond'])].format(i['value'],schema[e])) == False):
                     return False 
         return True
 
@@ -217,10 +205,10 @@ class Query:
                     return "Incorrect data format: \n field: {} ---- value: {}".format(e, i['value'])
         return True
 
-query = Query('./proyecto-python-1c-adriig/data/personas.csv')
+query = Query('./data/personas.csv')
 #print((query.find({'pais':'Norway', 'gender':'Female'})))
 
-myTest={'id':[{'value': 566, 'cond': 'gte'}, {'value':990,'cond':'lte'}], 'fecha_nacimiento':[{'value':'22/06/2002','cond':'after'}]}
+myTest={'id':[{'value': 566, 'cond': 'gte'}, {'value':990,'cond':'lte'}], 'fecha_nacimiento':[{'value':'22/06/2002','cond':'before'}], 'hobbies':[{'value':'yoga','cond':'out'}]}
 #print(checkIfDate("19/04/2002"))
 print(query.aggregate(myTest))
 #print(query.queryCheck(myTest))
