@@ -1,0 +1,1001 @@
+id;título;g1;fecha_estreno;recaudación_millones;espectadores;puntuación
+1;Chimes at Midnight (Campanadas a medianoche);Comedy|Drama|War;30/11/1993;0,59;65651011;1,99
+2;If You Could Only Cook;Comedy|Romance;21/01/1992;1,77;196953033;1,73
+3;H.H. Holmes: America's First Serial Killer;Crime|Documentary;11/03/1997;2,17;241462193;2,85
+4;Godson, The;Comedy|Crime;20/10/1982;1,11;123512919;4,33
+5;Altman;Documentary;14/10/1982;0,66;73440114;3,35
+6;Great Train Robbery, The (a.k.a. First Great Train Robbery, The);Action|Adventure|Comedy|Crime|Drama;19/09/2000;2,24;249251296;2,16
+7;Landscape Suicide;Crime|Drama;29/08/1987;2,4;26705496;1,29
+8;Les modèles de 'Pickpocket';Documentary;30/09/1993;1,61;179149369;0,11
+9;Rhyme & Reason;Documentary;22/12/1980;1,55;172472995;4,89
+10;Christmas Carol, A (Scrooge);Drama|Fantasy;09/01/1984;2,08;231447632;2,02
+11;This Is Not a Film (In film nist);Documentary;26/07/1984;0,83;92356507;4,58
+12;Ip Man;Action|Drama|War;30/01/1998;2,42;269280418;4,01
+13;Airplane II: The Sequel;Comedy;07/10/1982;0,68;75665572;2,82
+14;Edie & Pen;Comedy;16/02/1996;3,6;40058244;1,75
+15;Happy Times (Xingfu shiguang);Comedy|Drama;27/11/1993;1,42;158007518;4,61
+16;Daisies (Sedmikrasky);Comedy|Drama;10/03/1994;1,32;146880228;1,65
+17;The Green Prince;Documentary|Drama|Thriller;25/03/1999;1,75;194727575;1,16
+18;Coffy;Action|Crime|Thriller;12/10/1986;0,92;102371068;4,54
+19;Nomi Song, The;Documentary|Musical;30/07/1982;0,58;64538282;3,26
+20;Jack and Diane;Drama|Horror|Romance;23/12/1994;1,73;192502117;4,92
+21;Rent-a-Cat;Comedy|Drama;17/11/1987;2,07;230334903;3,54
+22;Sleeping Beauty;Animation|Children|Musical;10/02/1986;0,74;82341946;3,63
+23;Count Three and Pray;Drama|Western;14/12/1983;3,39;377215131;4,56
+24;Goddess, The;Drama;14/10/1985;1,12;124625648;2,42
+25;Stand by for Action;Action|Drama|War;08/02/1991;1,29;143542041;2,67
+26;Collection, The;Action|Horror|Thriller;20/10/1989;1,68;186938472;1,44
+27;Elvis on Tour;Documentary|Musical;11/01/1995;2,42;269280418;0,26
+28;Simpsons: The Longest Daycare, The;Animation|Comedy;29/11/1983;1,75;194727575;4,09
+29;On Our Merry Way;Comedy|Drama;24/05/1989;0,67;74552843;1,02
+30;Starfighters, The;Drama;16/03/1987;0,4;4450916;3,92
+31;Backlight;Drama|Sci-Fi|Thriller;27/02/1986;3,34;371651486;3,03
+32;Mad Love;Drama|Romance;13/04/1989;0,9;10014561;3,74
+33;Severance;Comedy|Horror|Thriller;05/07/1988;1,54;171360266;3,45
+34;Yacoubian Building, The (Omaret yakobean);Drama;19/04/1993;2,23;248138567;1,21
+35;Kings of Recycling (Kierrätyksen kuninkaat);Documentary;05/12/1992;1,7;18916393;2,28
+36;Giant Claw, The;Horror|Sci-Fi;02/06/1993;0,67;74552843;1,78
+37;Small Wonders;Documentary;25/05/1984;1,16;129076564;1,31
+38;Ricky Rapper and the Bicycle Thief (Risto Räppääjä ja polkupyörävaras);Children|Comedy|Musical;18/06/1993;1,2;13352748;1,65
+39;22 Bullets (L'immortel);Action|Crime|Thriller;16/06/1996;1,06;117949274;4,51
+40;The Hungover Games;Comedy;09/09/1990;0,5;5563645;4,75
+41;Amazing Grace;Drama|Romance;27/01/1981;0,79;87905591;0,12
+42;Voices from the List;Documentary;11/12/1985;0,54;60087366;0,36
+43;Free The Mind;Documentary;23/10/1999;0,57;63425553;2,53
+44;All the Real Girls;Drama|Romance;30/03/1985;4,3;47847347;4,34
+45;Fados;Documentary|Musical;27/07/1991;0,3;3338187;3,94
+46;Dr. Who and the Daleks;Adventure|Children|Sci-Fi;05/09/2000;0,81;90131049;0,36
+47;Vince Vaughn's Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland;Comedy|Documentary;14/07/1996;2,96;329367784;4,79
+48;Dodge City;Romance|Western;13/11/1992;1,92;213643968;1,15
+49;Hamlet;Drama;24/11/1997;1,54;171360266;4,83
+50;Blood on the Moon;Action|Drama|Western;23/04/1985;2,82;313789578;3,11
+51;Beach Girls and the Monster, The;Horror;31/01/2000;2,19;243687651;2,88
+52;Umberto D.;Drama;26/02/1995;1,06;117949274;4,84
+53;Four Nights of a Dreamer (Quatre nuits d'un rêveur);Drama|Romance;20/07/1997;2,86;318240494;1,83
+54;Cat-Women of the Moon (a.k.a. Rocket to the Moon);Adventure|Sci-Fi;29/12/1998;4,6;51185534;2,34
+55;Touching the Void;Adventure|Documentary;21/05/1985;0,8;8901832;1,84
+56;Family Tree, The;Comedy|Drama;14/09/1990;0,59;65651011;2,78
+57;Beasts of the Southern Wild;Drama|Fantasy;23/03/1995;3,19;354960551;2,07
+58;Larceny, Inc.;Comedy|Crime|Drama;29/04/1984;2,74;304887746;4,49
+59;Mary Stevens M.D.;Drama;31/10/1996;2,17;241462193;3,25
+60;You and Me (Ty i ya);Drama;28/07/1982;1,88;209193052;3,79
+61;Cat in Paris, A (Une vie de chat);Animation|Crime|Mystery;10/06/1984;1,58;175811182;0,3
+62;Calling Bulldog Drummond;Crime|Mystery;17/02/1997;2,05;228109445;3,98
+63;Excuse Me Darling, But Lucas Loved Me;Comedy;17/09/1998;1,91;212531239;2,69
+64;Another Stakeout;Comedy|Thriller;25/09/1984;2,23;248138567;2,52
+65;Voodoo Dawn;Horror;23/11/1990;0,74;82341946;2,49
+66;Bridesmaid, The (Demoiselle d'honneur, La);Drama|Romance|Thriller;30/12/1982;1,91;212531239;2,15
+67;Survival of the Dead;Horror;03/04/1985;2,78;309338662;1,21
+68;Flamingo Kid, The;Comedy|Drama;17/08/1989;2,48;275956792;1,77
+69;Heavenly Body, The;Comedy|Romance;07/02/1989;1,4;15578206;1,29
+70;Glass House, The;Thriller;23/04/1987;2,8;31156412;3,92
+71;Thorn Birds, The;Drama|Romance;25/12/1990;0,64;71214656;1,98
+72;Brainstorm;Sci-Fi|Thriller;02/02/1985;1,6;17803664;1,57
+73;Swamp Women;Adventure|Crime|Horror;16/07/1994;0,84;93469236;2,74
+74;Some Kind of Hero;Comedy|Drama;30/03/1991;0,67;74552843;3,36
+75;Gorilla, The;Comedy|Horror;04/06/1981;0,74;82341946;4,29
+76;White Fang (Zanna Bianca);Adventure;13/09/2000;1,55;172472995;3,39
+77;Trials of Henry Kissinger, The;Documentary;10/04/1993;1,77;196953033;3,56
+78;Glory to the Filmmaker! (Kantoku · Banzai!);Comedy|Drama;24/04/1990;1,8;20029122;3,28
+79;À l'aventure;Drama;11/09/1983;2,32;258153128;3,77
+80;Hollywoodland;Crime|Drama|Mystery|Thriller;17/11/1981;1,03;114611087;2,69
+81;Expelled from Paradise;Animation;27/01/1995;1,12;124625648;2,59
+82;Premature;Comedy;12/04/1994;2,26;251476754;1,73
+83;Designing Woman;Comedy;28/08/1992;1,14;126851106;1,06
+84;Stories of Lost Souls;Comedy|Drama|Thriller;16/11/1985;1,84;204742136;1,32
+85;Election (Hak se wui);Crime|Drama|Thriller;06/07/1995;4,7;52298263;2,69
+86;Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane);Drama|War;02/11/1985;0,3;3338187;1,62
+87;Sixth of the World, A (Shestaya chast mira);Documentary;15/08/1981;2,01;223658529;0,15
+88;Emma;Comedy|Drama|Romance;09/01/1998;3,1;34494599;0,26
+89;Best of Youth, The (La meglio gioventù);Drama;10/01/1999;1,38;153556602;3,43
+90;Bright Future (Akarui mirai);Drama;26/01/1990;1,07;119062003;4,19
+91;Runaway Bride;Comedy|Romance;24/08/1986;1,28;142429312;4,04
+92;Passengers;Drama|Mystery|Thriller;13/05/1998;1,01;112385629;0,2
+93;Hour of the Pig, The;Crime|Drama|Mystery;07/04/2000;0,5;5563645;1,05
+94;Ladies in Retirement;Drama;29/07/1985;1,01;112385629;0,44
+95;Paper Will Be Blue, The (Hîrtia va fi albastrã);Action|Drama;28/01/1984;2,01;223658529;3,92
+96;Perfect Sisters;Drama|Mystery;07/04/1996;1,65;183600285;0,36
+97;Blood of Heroes, The (Salute of the Jugger, The);Action|Sci-Fi;02/06/1998;2,41;268167689;3,47
+98;Rimini, Rimini: A Year Later;Comedy;18/09/1991;1,9;21141851;3,29
+99;V/H/S: Viral;Horror|Thriller;01/02/1988;1,56;173585724;1,06
+100;Hav Plenty;Comedy;20/04/2000;1,1;12240019;2,61
+101;Atomic Submarine, The;Sci-Fi|Thriller;13/10/1986;1,93;214756697;1,06
+102;Concussion;Drama;12/12/1998;2,66;295985914;3,33
+103;Hell in the Pacific;Drama|War;28/11/1983;3,5;38945515;4,32
+104;Ryan's Daughter;Drama|Romance;29/04/1984;2,56;284858624;4,85
+105;Red-Headed Woman;Comedy|Romance;04/07/1988;3,2;35607328;3,64
+106;End of the Affair, The;Drama;19/03/1984;1,94;215869426;3,08
+107;Sunday in New York;Comedy|Romance;24/04/1989;1,29;143542041;2,32
+108;Love & Human Remains;Comedy|Drama;25/10/1999;2,27;252589483;3,96
+109;Outbound (Periferic);Action|Drama;05/10/1998;1,79;199178491;1,29
+110;Equus;Drama|Mystery;30/05/1990;1,15;127963835;1,53
+111;Body Parts;Horror|Thriller;07/06/1981;0,7;7789103;3,83
+112;My Lady Margarine (Die Austernprinzessin) (Oyster Princess, The);Comedy;06/07/1986;1,24;137978396;1,08
+113;Winnie the Pooh and Tigger Too;Animation|Children;29/04/1996;3,6;40058244;4,64
+114;22 Bullets (L'immortel);Action|Crime|Thriller;05/03/1990;3,32;369426028;2,65
+115;Son of the Mask;Adventure|Children|Comedy|Fantasy;12/11/1983;3,26;362749654;3,19
+116;Manslaughter;Drama;08/02/1983;1,58;175811182;4,23
+117;Three Times (Zui hao de shi guang);Drama|Romance;02/09/1984;1,19;132414751;2,28
+118;Water Drops on Burning Rocks;Drama;22/03/1987;0,8;8901832;2,98
+119;The Hunting Ground;Documentary;13/04/1983;2,04;226996716;3,25
+120;Greaser's Palace;Comedy|Drama|Western;05/04/1986;0,98;109047442;2,09
+121;MacGruber;Action|Comedy;10/08/1989;4,2;46734618;3,49
+122;Banishment, The (Izgnanie);Drama;25/08/1984;4,1;45621889;2,65
+123;Naked Fear;Horror|Thriller;02/05/1991;2,12;235898548;4,86
+124;Patriot, The;Action|Drama|War;12/05/1996;2,12;235898548;2,34
+125;Ticked-Off Trannies with Knives;Action|Comedy|Crime|Horror|Thriller;23/06/1990;1,72;191389388;3,93
+126;Faces;Drama;06/08/1998;1,71;190276659;4,72
+127;13;Thriller;07/05/1991;0,72;80116488;0,25
+128;Trade;Crime|Drama|Thriller;27/03/1984;2;22254580;3,36
+129;Max Manus;Action|Drama|War;12/09/1986;0,2;2225458;4,22
+130;Secrets of the Tribe;Documentary;19/11/1998;4,15;461782535;4,32
+131;Let it Rain (Parlez-moi de la pluie);Comedy|Drama;21/05/1983;2,19;243687651;3,18
+132;W Delta Z (a.k.a. The Killing Gene);Crime|Horror|Thriller;09/08/1998;0,85;94581965;3,65
+133;Jane Eyre;Drama|Romance;18/04/1995;2,47;274844063;3,33
+134;Masti;Comedy;05/02/1990;2,41;268167689;4,33
+135;Civil War, The;Documentary|War;21/08/1996;2,21;245913109;3,13
+136;John Carter;Action|Adventure|Sci-Fi|IMAX;09/02/1998;1;11127290;3,38
+137;If Only;Drama|Fantasy|Romance|Thriller;01/12/1997;0,69;76778301;1,99
+138;Ripley's Game;Drama|Thriller;22/03/1981;1,78;198065762;1,34
+139;Face;Comedy;19/07/1990;1,36;151331144;2,42
+140;Alexander;Action|Adventure|Drama|War;23/08/1996;1,65;183600285;2,69
+141;Putin's Kiss;Documentary;05/09/1990;0,5;5563645;1,76
+142;Murder by Proxy: How America Went Postal;Documentary;04/01/1991;3,82;425062478;2,39
+143;House of the Seven Gables, The;Drama|Thriller;22/02/1998;1,07;119062003;3,76
+144;Vuonna 85;Comedy;30/11/1999;1,65;183600285;4,13
+145;Love Loves Coincidences;Drama|Romance;22/02/1986;3,3;36720057;1,16
+146;Baader Meinhof Komplex, Der;Action|Crime|Drama|Thriller;09/05/1990;2,24;249251296;1,38
+147;Week-End at the Waldorf;Comedy|Drama|Romance;22/05/1992;1,49;165796621;0,14
+148;Witnesses, The (Les témoins);Drama;30/08/1997;2,79;310451391;2,83
+149;Usual Suspects, The;Crime|Mystery|Thriller;30/05/1985;0,99;110160171;1,69
+150;Lucia;Drama|Romance|Sci-Fi|Thriller;24/11/1982;0,77;85680133;4,58
+151;Salvador;Drama|Thriller|War;17/05/2000;2,48;275956792;0,38
+152;Fiend Without a Face;Horror|Sci-Fi|Thriller;30/12/1986;2,61;290422269;3,11
+153;Ghost Machine;Action|Sci-Fi|Thriller;25/10/1989;2,33;259265857;2,97
+154;The Gallant Hours;(no genres listed);21/02/1986;3,32;369426028;1,34
+155;Dean Spanley;Comedy|Drama;23/02/1982;0,79;87905591;1,02
+156;The Magical Legend of the Leprechauns;Adventure|Children|Comedy|Fantasy|Romance;10/12/1986;0,97;107934713;3,26
+157;Dillinger;Action|Crime|Drama;23/08/1997;1,19;132414751;2,13
+158;Three Lives of Thomasina, The;Children|Drama;04/10/1993;3,04;338269616;4,74
+159;Fade To Black;Comedy|Horror|Thriller;26/09/1995;1,54;171360266;3,84
+160;Home Room;Drama;30/08/1989;2,51;279294979;4,45
+161;To the Devil a Daughter;Fantasy|Horror|Mystery;17/06/1985;0,74;82341946;3,27
+162;Clash of the Titans;Action|Adventure|Fantasy|Romance;25/01/1983;4,03;448429787;2,23
+163;Go;Drama;30/04/1991;1,25;139091125;4,22
+164;Rock-afire Explosion, The;Documentary;09/07/1995;2,04;226996716;3,29
+165;Cain and Mabel;Comedy|Musical|Romance;23/06/1991;3,34;371651486;2,88
+166;Flaming Star;Western;28/11/1996;2,25;250364025;2,61
+167;Emotion;Comedy|Horror;07/05/1983;2,22;247025838;2,21
+168;Sometimes They Come Back... Again;Horror;17/01/1999;0,91;101258339;2,57
+169;Family Secrets (Familjehemligheter);Drama;02/08/1998;1,9;21141851;2,66
+170;Glenn Killing på Berns;Comedy;07/08/1999;2,2;24480038;2,97
+171;Sydney White;Comedy;30/11/1991;1,44;160232976;3,18
+172;Harvest;Drama;03/03/2000;2,59;288196811;4,96
+173;Colourful (Karafuru);Animation|Drama|Fantasy|Mystery;23/01/1988;1,78;198065762;3,48
+174;Enemy of the People, An;Drama;21/01/1982;0,2;2225458;0,44
+175;Painted Veil, The;Drama|Romance;23/09/1982;1,34;149105686;3,91
+176;Easy Riders, Raging Bulls: How the Sex, Drugs and Rock 'N' Roll Generation Saved Hollywood;Documentary;29/01/2000;3,37;374989673;2,59
+177;Role/Play;Drama;12/01/1999;0,53;58974637;1,58
+178;Target Shoots First, The;Comedy|Drama;01/04/1982;1,04;115723816;4,12
+179;Operation Mad Ball;Comedy|War;25/02/1996;1,24;137978396;0,33
+180;Massacre Canyon;Western;21/10/1995;2,59;288196811;3,15
+181;Hollywood Ending;Comedy|Drama;01/10/1996;1,5;16690935;4,46
+182;Raising Victor Vargas;Comedy|Drama|Romance;28/11/1985;0,97;107934713;4,99
+183;Step Brothers;Comedy;21/04/1999;3,75;417273375;1,65
+184;Dream for an Insomniac;Drama|Romance;24/01/1997;0,68;75665572;3,73
+185;Girl, The;Drama;28/02/1981;3,53;392793337;1,27
+186;Decoy Bride, The;Comedy|Romance;14/06/1986;3,1;34494599;1,85
+187;Great Muppet Caper, The;Children|Comedy;30/08/1990;1,6;17803664;2,46
+188;Gung Ho! (Gung Ho!: The Story of Carlson's Makin Island Raiders);Drama|War;16/04/1999;2,94;327142326;1,92
+189;Million Dollar Baby;Drama;02/09/1999;1,32;146880228;3,77
+190;Kaho Naa... Pyaar Hai;Action|Adventure|Comedy|Drama|Mystery|Romance|Thriller;11/11/1989;1,12;124625648;3,21
+191;People vs. George Lucas, The;Documentary;28/03/1981;1,04;115723816;3,29
+192;Wake;Comedy|Drama|Romance;21/12/1993;2,45;272618605;1,31
+193;Kissed;Drama|Romance;19/10/1984;0,84;93469236;0,5
+194;Aces and Eights;Western;16/12/1983;1,6;17803664;4,32
+195;Kind Hearts and Coronets;Comedy|Drama;20/04/1991;2,05;228109445;1,93
+196;Cats Don't Dance;Animation|Children|Musical;23/12/1999;0,85;94581965;2,93
+197;Gamer;Action|Sci-Fi|Thriller;26/05/1997;3,17;352735093;4,95
+198;May;Drama|Horror;22/05/1992;2,2;24480038;2,85
+199;My Afternoons with Margueritte (La tête en friche);Comedy;01/02/1983;2,7;30043683;4,28
+200;Bleeding House, The;Drama|Horror|Mystery|Thriller;20/07/1997;2,26;251476754;4,75
+201;Zincirbozan;Crime|Drama;17/02/1985;0,1;1112729;3,57
+202;When Night Is Falling;Drama|Romance;11/10/1995;2,48;275956792;3,44
+203;Mummy's Hand, The;Horror;19/02/1998;1,75;194727575;4,76
+204;Cass Timberlane;Drama|Romance;03/04/1986;1,51;168022079;3,33
+205;Seven Psychopaths;Comedy|Crime;01/01/1995;0,8;8901832;2,16
+206;Confessions of a Driving Instructor;Comedy;02/03/1994;3,5;38945515;2,61
+207;Making Plans for Lena (Non ma fille, tu n'iras pas danser);Drama;06/03/1986;0,99;110160171;3,92
+208;Chuck Berry Hail! Hail! Rock 'n' Roll;Documentary|Musical;29/10/1986;1,78;198065762;2,29
+209;Holiday Spin;Drama|Romance;13/02/1989;1,57;174698453;2,34
+210;Due Date;Comedy;21/08/1985;2,09;232560361;2,21
+211;Jenny;Drama;12/03/2000;1,19;132414751;2,67
+212;Hunchback of Notre Dame, The (Notre Dame de Paris);Drama;09/12/1992;3,7;41170973;3,77
+213;Heartbreak Hospital;Comedy|Thriller;20/08/1995;1,14;126851106;1,72
+214;Captain Horatio Hornblower R.N.;Action|Adventure|Drama|War;05/07/1993;1,49;165796621;3,86
+215;The Love Letter;Fantasy|Romance;31/08/1994;2,14;238124006;4,18
+216;Frantic;Crime|Mystery|Thriller;26/04/1998;0,1;1112729;3,67
+217;Magadheera;Action|Adventure|Fantasy|Romance;28/07/1991;0,99;110160171;4,03
+218;Wrestling (Bræðrabylta);Drama|Romance;01/02/1995;4,6;51185534;1,48
+219;Milk and Honey;Drama;21/04/1997;4,5;50072805;1,29
+220;3 Sailors and a Girl (Three Sailors and a Girl);Comedy|Musical;11/04/1988;1,22;135752938;1,14
+221;Geronimo: An American Legend;Drama|Western;15/02/1987;2,01;223658529;4,74
+222;Big Bully;Comedy|Drama;08/05/1991;0,71;79003759;0,34
+223;Asterix in America (a.k.a Asterix Conquers America) (Astérix et les Indiens);Adventure|Animation|Children|Comedy;04/06/1986;1,39;154669331;4,23
+224;Two Men Went to War;Comedy|War;23/03/1996;2,11;234785819;3,72
+225;Tales from the Script;Documentary;21/10/1983;3,28;364975112;2,12
+226;Driving Lessons;Comedy|Drama;19/01/1985;1,47;163571163;3,75
+227;Art School Confidential;Comedy|Drama;18/09/1992;1,64;182487556;0,13
+228;Lebanon;Drama|War;27/10/1981;1,9;21141851;4,55
+229;Dogtooth (Kynodontas);Drama;12/02/1987;1,34;149105686;3,49
+230;Ménage (Tenue de soirée);Comedy|Drama;03/05/1998;1,43;159120247;1,77
+231;Like Crazy;Drama|Romance;29/03/1984;3,23;359411467;3,81
+232;Miss Minoes;Children|Comedy|Fantasy;25/08/1982;3,8;42283702;3,26
+233;Franklyn;Drama|Fantasy|Romance|Thriller;13/08/1985;1,23;136865667;3,38
+234;Mouchette;Drama;06/06/1991;0,95;105709255;1,03
+235;Cheetah;Adventure|Children;21/12/1984;1,38;153556602;1,55
+236;Tess;Drama|Romance;04/10/1992;2,95;328255055;1,71
+237;Campfire Tales;Horror;02/03/1996;1,4;15578206;2,34
+238;Saint Ange (House of Voices);Drama|Fantasy|Horror|Mystery;27/02/1997;2,1;23367309;2,82
+239;Atlantic City;Crime|Drama|Romance;07/01/1996;0,5;5563645;4,36
+240;Clueless;Comedy|Romance;02/03/1988;0,68;75665572;4,76
+241;Better Than Sex;Comedy|Romance;08/12/1993;0,97;107934713;1,17
+242;When I Grow Up, I'll Be a Kangaroo (Kad porastem bicu Kengur);Comedy;28/11/1980;2,33;259265857;3,24
+243;Callan;Thriller;09/05/1989;4,7;52298263;2,49
+244;Pronto;Comedy|Crime|Thriller;12/10/1988;2,72;302662288;3,84
+245;Queen Sized;Comedy|Drama;20/11/1980;0,91;101258339;1,74
+246;Honky Tonk Freeway;Comedy;08/06/1986;2,69;299324101;2,32
+247;Seven Beauties (Pasqualino Settebellezze);Comedy|Drama;03/02/1983;1,42;158007518;3,44
+248;Jackass 3D;Action|Comedy|Documentary;20/01/1991;0,85;94581965;4,19
+249;Time Lapse;Crime|Drama|Sci-Fi|Thriller;21/05/1995;1,18;131302022;2,38
+250;Wildflowers;Drama;17/06/1981;1,07;119062003;4,78
+251;Walk in the Clouds, A;Drama|Romance;13/11/1990;4,6;51185534;4,96
+252;Fatal Beauty;Action|Comedy|Crime|Drama;01/02/1995;2,23;248138567;1,82
+253;Stars Fell on Henrietta, The;Drama;12/03/1994;1,4;15578206;3,43
+254;Protector, The (a.k.a. Warrior King) (Tom yum goong);Action|Comedy|Crime|Thriller;03/03/1989;4,5;50072805;0,17
+255;Who Can Kill a Child? (a.k.a. Island of the Damned) (¿Quién puede matar a un niño?);Horror|Mystery|Thriller;12/01/1983;0,3;3338187;3,41
+256;Atlas Shrugged: Who Is John Galt? (Atlas Shrugged: Part III);Drama|Mystery|Sci-Fi;21/10/1986;1,94;215869426;3,23
+257;My New Gun;Comedy;28/09/1982;2,49;277069521;1,91
+258;Ashes and Diamonds (Popiól i diament);Drama|War;09/04/1995;2,47;274844063;3,05
+259;Red Canyon;Action|Horror|Thriller;28/04/2000;0,62;68989198;1,25
+260;Non-Stop;Drama|Mystery|Thriller;27/11/1999;0,4;4450916;4,69
+261;Bitter Victory;Action|Drama|Romance|War;23/10/1997;2,42;269280418;2,61
+262;Oblivion Island: Haruka and the Magic Mirror (Hottarake no shima - Haruka to maho no kagami);Adventure|Animation|Fantasy;17/04/1999;0,73;81229217;3,77
+263;Genova (Summer in Genoa, A);Drama|Romance;21/02/1990;1,71;190276659;1,35
+264;Gummo;Drama;27/05/1994;1,49;165796621;0,25
+265;Pretty Woman;Comedy|Romance;05/10/1989;1,79;199178491;4,39
+266;Teen Wolf;Comedy|Fantasy;28/08/1983;1,73;192502117;0,42
+267;Kull the Conqueror;Action|Adventure;26/08/1994;1,81;201403949;2,31
+268;Toy Story 2;Adventure|Animation|Children|Comedy|Fantasy;01/08/1989;3,39;377215131;4,76
+269;And Everything Is Going Fine;Documentary;23/12/1995;1,65;183600285;1,25
+270;Ghoul, The;Drama|Horror;31/03/1992;2,81;312676849;4,98
+271;Quand je serai petit;Drama;14/02/1989;2,52;280407708;3,18
+272;Goldene Zeiten;Comedy|Crime|Drama;21/12/1987;2,83;314902307;3,07
+273;Don't Tell Mom the Babysitter's Dead;Comedy;12/12/1984;1,67;185825743;3,82
+274;Luther the Geek;Horror;16/08/1996;1,83;203629407;4,33
+275;Narc;Crime|Drama|Thriller;16/10/1985;1,08;120174732;4,97
+276;Immigrant, The;Comedy;19/07/1986;2,3;25592767;4,96
+277;Young Guns;Action|Comedy|Western;18/11/1994;4,7;52298263;0,27
+278;Topper;Comedy|Fantasy|Romance;26/07/1986;1,32;146880228;4,48
+279;Wrong Is Right (a.k.a. The Man With the Deadly Lens);Drama|Thriller;11/01/1990;2,19;243687651;4,52
+280;Oh, God! You Devil;Comedy;16/07/1994;1,02;113498358;3,62
+281;Deadline at Dawn;Film-Noir|Mystery|Romance|Thriller;05/11/1993;1,35;150218415;1,38
+282;My Boy Jack;Drama|War;12/03/1992;1,87;208080323;3,07
+283;Year My Voice Broke, The;Drama;15/10/1985;1,44;160232976;0,47
+284;Porky's;Comedy;12/03/1989;1,34;149105686;2,21
+285;Karen Cries on the Bus;Drama;17/10/1990;1,83;203629407;3,57
+286;Crazed Fruit (Kurutta kajitsu);Drama;29/09/1990;0,53;58974637;4,08
+287;Seeking Justice;Action|Drama|Thriller;22/11/1986;0,9;10014561;4,94
+288;Once Upon a Time in Shanghai;Crime;18/04/1990;2,35;261491315;3,66
+289;To Live and Die in L.A.;Action|Crime|Drama|Thriller;25/07/1984;1,63;181374827;3,78
+290;Enlightenment Guaranteed (Erleuchtung Garantiert);Comedy|Drama;03/01/1982;1,14;126851106;3,66
+291;Key, The;Drama;31/05/1985;3,71;412822459;1,55
+292;Gallipoli;Drama|War;09/03/1988;1,13;125738377;1,04
+293;White Reindeer, The (Valkoinen peura);Drama|Fantasy|Horror;05/07/1987;1,97;219207613;3,61
+294;Sting II, The;Comedy|Crime;26/03/1984;0,71;79003759;2,45
+295;Beachhead;Drama|War;27/09/1987;0,92;102371068;1,91
+296;Necessary Roughness;Comedy;28/05/1984;1,19;132414751;2,19
+297;Snow Falling on Cedars;Drama;08/08/1995;4,34;482924386;3,85
+298;Hush... Hush, Sweet Charlotte;Horror|Thriller;02/04/1981;0,89;99032881;4,96
+299;Hue and Cry;Action|Comedy|Crime;03/02/1984;0,54;60087366;4,93
+300;Kansas;Crime|Drama;08/05/1985;0,99;110160171;1,03
+301;Snow Falling on Cedars;Drama;23/07/1987;3,4;37832786;2,33
+302;Pool, The (Swimming Pool - Der Tod feiert mit) ;Horror|Thriller;05/04/1985;2,9;32269141;4,63
+303;Save the Last Dance 2;Drama|Romance;13/04/1996;3,69;410597001;4,03
+304;Elite Squad (Tropa de Elite);Action|Crime|Drama|Thriller;25/09/1988;1,11;123512919;2,61
+305;Dance with the Devil (Perdita Durango);Action|Crime|Drama|Romance;05/12/1988;0,74;82341946;3,95
+306;Chesty: A Tribute to a Legend;Documentary;30/11/1997;2,17;241462193;4,53
+307;Animals United;Animation|Children|Comedy;29/03/1999;1,93;214756697;2,77
+308;These Are the Damned (a.k.a. The Damned);Drama|Fantasy|Romance|Sci-Fi;17/02/1998;1,82;202516678;3,92
+309;Friends at the Margherita Cafe, The (Gli amici del bar Margherita);Comedy|Drama|Romance;01/01/1988;1,73;192502117;3,08
+310;Bridge, The;Documentary;20/06/1983;0,84;93469236;1,12
+311;Whispers in the Dark;Thriller;28/04/1989;1,39;154669331;2,33
+312;Street Fighter, The (Gekitotsu! Satsujin ken);Action;21/10/1996;3,8;42283702;1,08
+313;Shop on Main Street, The (Obchod na korze);Drama;02/05/1997;1,01;112385629;4,69
+314;Mr. Wonderful;Comedy|Romance;07/12/1993;2,4;26705496;2,36
+315;Miracle in Cell No. 7;Comedy|Drama;03/11/1995;2,17;241462193;3,79
+316;Barren Lives (Vidas Secas);Drama;05/07/1991;1,65;183600285;1,24
+317;Muriel, or The Time of Return (Muriel ou Le temps d'un retour);Drama;03/12/1991;4,1;45621889;2,68
+318;Bring It On: Fight to the Finish;Comedy;19/10/1989;1,01;112385629;2,78
+319;36 Hours;Thriller|War;10/03/1993;2,01;223658529;2,09
+320;Foreigner, The;Drama;11/05/1995;1,22;135752938;4,38
+321;In the Midst of Life (Au coeur de la vie);Drama|War;10/05/1999;1,79;199178491;1,75
+322;Iran Job, The;Documentary;23/02/1995;1,68;186938472;1,51
+323;How They Get There;(no genres listed);18/07/1999;0,97;107934713;4,91
+324;TerrorStorm: A History of Government-Sponsored Terrorism;Documentary;03/06/1990;1,42;158007518;3,44
+325;Going All the Way;Comedy|Drama;10/06/1995;1,56;173585724;1,91
+326;Mischief Night;Drama|Horror|Thriller;17/08/1993;1,12;124625648;3,64
+327;Mother's Day;Comedy|Horror;05/11/1990;4,3;47847347;1,53
+328;13 Lakes;Documentary;25/02/1995;2,32;258153128;1,51
+329;Airport;Drama;16/12/1980;2,09;232560361;2,36
+330;Only the Lonely;Comedy|Romance;15/05/1983;4,1;45621889;2,93
+331;Live!;Comedy|Drama;11/05/1987;1,4;15578206;3,77
+332;The Last Shark;Adventure|Horror|Thriller;10/03/1981;1,05;116836545;2,11
+333;Everything Must Go;Comedy|Drama;13/01/1993;2,11;234785819;2,45
+334;The Little Kidnappers;Drama|Romance|War;17/08/1985;0,97;107934713;4,46
+335;North Dallas Forty;Comedy|Drama;10/10/1985;2,14;238124006;4,54
+336;Young People;Drama;19/12/1993;2,6;28930954;4,09
+337;Prophet, A (Un Prophète);Crime|Drama;05/07/1991;1,57;174698453;4,62
+338;Avatar;Action|Adventure|Sci-Fi|IMAX;18/10/1992;1,19;132414751;3,08
+339;Lawman;Western;19/10/1992;2,48;275956792;0,17
+340;Beaches;Comedy|Drama|Musical;22/08/1996;2,4;26705496;4,27
+341;Boys' Night Out;Comedy;15/09/1981;2,72;302662288;3,39
+342;And So It Goes;Comedy|Drama|Romance;17/06/1999;1,65;183600285;1,68
+343;Traitor;Crime|Drama|Thriller;29/10/1993;0,55;61200095;0,3
+344;Social Network, The;Drama;11/02/1981;2,19;243687651;3,45
+345;Route Irish;Drama|Thriller;24/09/1985;1,23;136865667;1,43
+346;Bible, The (a.k.a. Bible... In the Beginning, The);Drama;21/09/1983;1,31;145767499;2,53
+347;Men Seeking Women;Comedy;20/09/1996;2,84;316015036;0,36
+348;Urbanized;Documentary;13/09/1998;1,48;164683892;3,91
+349;Tekkonkinkreet (Tekkon kinkurîto);Action|Adventure|Animation|Crime|Fantasy;07/09/1990;1,22;135752938;0,21
+350;Tora-san Our Lovable Tramp (Otoko wa tsurai yo);Comedy|Drama|Romance;06/11/1989;1,66;184713014;1,94
+351;The Lazarus Effect;Horror|Thriller;04/12/1994;3,42;380553318;1,29
+352;Extraterrestrial;Horror|Sci-Fi;04/06/1993;2,19;243687651;0,26
+353;The Amazing Dr. Clitterhouse;Crime|Drama|Film-Noir;14/12/1988;4,37;486262573;4,57
+354;Impulse;Mystery|Thriller;13/12/1996;0,55;61200095;4,55
+355;Fitna;Documentary;06/08/1989;0,66;73440114;1,76
+356;Mudlark, The;Drama;08/12/1989;0,8;8901832;4,73
+357;Tennessee Johnson;Drama;21/02/1995;3,36;373876944;4,26
+358;Last Metro, The (Dernier métro, Le);Drama|Romance;23/02/1996;0,64;71214656;3,42
+359;Last Man Standing;Action|Crime|Drama|Thriller;25/05/1995;2,35;261491315;3,18
+360;Dragon Ball Z: Broly - The Legendary Super Saiyan (Doragon bôru Z 8: Moetsukiro!! Nessen retsusen-chô gekisen);Action|Adventure|Animation;06/03/2000;2,17;241462193;2,09
+361;Paper Lion;Comedy;17/08/1986;1,38;153556602;0,48
+362;Crew, The;Drama|Thriller;12/12/1990;2,66;295985914;0,36
+363;American Bandits: Frank and Jesse James;Western;09/05/1981;0,73;81229217;3,72
+364;Nurse Betty;Comedy|Crime|Drama|Romance|Thriller;22/12/1991;2,23;248138567;1,58
+365;Dracula;Horror;14/05/1994;0,69;76778301;2,44
+366;Like Minds (Murderous Intent);Crime|Mystery|Thriller;10/03/1984;0,62;68989198;0,45
+367;Good Morning, Night (Buongiorno, notte);Drama;05/05/1982;2,47;274844063;0,19
+368;Implanted;Drama|Mystery|Sci-Fi|Thriller;27/12/1994;2,37;263716773;4,28
+369;Cloud-Capped Star, The (Meghe Dhaka Tara);Drama;07/07/1999;2,6;28930954;3,65
+370;How to Lose a Guy in 10 Days;Comedy|Romance;13/02/1989;2,87;319353223;4,63
+371;Aloft;Drama;23/08/1995;1,68;186938472;3,32
+372;Bound by Flesh ;Documentary;20/08/1996;0,8;8901832;1,86
+373;Doc;Western;02/10/1989;1,26;140203854;3,18
+374;Club Sandwich;Comedy;27/05/1999;2,05;228109445;3,33
+375;Against All Odds;Romance;08/07/1997;1,05;116836545;2,02
+376;Harvie Krumpet;Animation|Comedy|Drama;05/08/1999;3,1;34494599;1,99
+377;Napoleon and Samantha;Adventure|Drama;16/12/1999;1,9;21141851;2,76
+378;Naked Prey, The;Adventure;26/02/1996;1,54;171360266;2,07
+379;The Adventures of André and Wally B.;Animation;10/01/1983;2,6;28930954;2,05
+380;Big Daddy;Comedy;30/10/1998;4,6;51185534;2,46
+381;Castle of Sand, The (Suna no utsuwa);Crime|Mystery|Thriller;22/09/1998;2,39;265942231;4,44
+382;Campus Man;Comedy;20/05/1998;3,7;41170973;4,45
+383;Alice Doesn't Live Here Anymore;Drama|Romance;05/09/1982;2,5;27818225;3,29
+384;Directed by John Ford;Documentary;03/06/1989;3,06;340495074;4,12
+385;The Man Without a Map;Mystery;08/07/1987;2,07;230334903;3,86
+386;Garfield Christmas Special, A;Animation|Children|Comedy|Musical;07/07/1984;2,17;241462193;1,12
+387;Silent Night, Deadly Night 5: The Toy Maker;Horror|Sci-Fi;05/11/1995;4,15;461782535;1,94
+388;Dentist, The;Horror|Thriller;07/07/1983;1,04;115723816;2,54
+389;Shoot to Kill;Action|Adventure;14/05/1989;4,8;53410992;4,79
+390;Capture of Bigfoot, The;Adventure|Horror|Sci-Fi;21/11/1993;2,76;307113204;2,76
+391;Parental Guidance;Comedy;10/10/1995;1,73;192502117;3,63
+392;The Spiritual Boxer;Action|Comedy|Drama;25/01/2000;1,78;198065762;3,74
+393;American Strays;Action;01/08/1985;3,53;392793337;3,46
+394;Le grand soir;Comedy;01/09/1994;1,56;173585724;0,19
+395;Fresh Guacamole;Animation;03/10/1983;2,23;248138567;2,82
+396;There Be Dragons;Drama|War;02/08/1989;0,99;110160171;3,88
+397;For Your Eyes Only;Action|Adventure|Thriller;02/07/1992;1,19;132414751;1,73
+398;Monica Z;Drama;08/02/1996;0,87;96807423;3,58
+399;Night of the Comet;Comedy|Horror|Sci-Fi;04/01/1995;0,4;4450916;2,12
+400;Lady is Willing, The;Comedy|Drama|Romance;27/03/1987;1,51;168022079;1,74
+401;Invisible Man, The;Horror|Sci-Fi;30/08/1982;2,64;293760456;0,21
+402;Youth of the Beast (Yaju no seishun);Action|Crime|Mystery;22/09/1983;3,1;34494599;1,23
+403;Living Ghost, The;Comedy|Horror|Mystery|Thriller;06/11/1980;3,2;35607328;0,45
+404;Sparks;Action|Fantasy|Mystery|Sci-Fi|Thriller;01/10/1997;2,02;224771258;2,85
+405;Bakhita;Drama;29/01/1994;2,7;30043683;2,79
+406;Day of the Locust, The;Drama;19/10/1998;1,68;186938472;0,18
+407;Postman Always Rings Twice, The;Crime|Thriller;25/07/1993;1,21;134640209;2,35
+408;The Diary of Anne Frank;Drama|War;06/04/1983;0,67;74552843;2,31
+409;Our Blushing Brides;Drama;20/05/1998;1,08;120174732;4,94
+410;Dancing in September;Drama;01/10/2000;1,48;164683892;2,29
+411;Don;Action|Crime|Musical;16/09/1997;1,22;135752938;2,69
+412;My Dog Skip;Children|Drama;25/01/1996;2,83;314902307;0,31
+413;Million Ways to Die in the West, A;Comedy|Western;27/10/1980;0,6;6676374;2,28
+414;Candyman 3: Day of the Dead;Horror;18/05/1982;1,24;137978396;3,88
+415;Water Lilies (Naissance des pieuvres);Drama;05/05/1992;2,09;232560361;0,26
+416;Charlie Chan at the Wax Museum;Comedy|Crime|Mystery|Thriller;16/06/1987;1,57;174698453;1,93
+417;Sound of Redemption: The Frank Morgan Story;Documentary|Drama|Musical;07/07/2000;3,1;34494599;2,24
+418;See No Evil;Crime|Drama|Horror|Thriller;05/05/1987;1,02;113498358;2,27
+419;Return of Jafar, The;Adventure|Animation|Children|Fantasy|Musical|Romance;12/05/1981;1,21;134640209;1,34
+420;Nut Job, The;Adventure|Animation|Children|Comedy;26/11/1998;2,8;31156412;2,94
+421;Black Butterflies;Drama;28/01/1985;1,93;214756697;2,08
+422;Heat;Action|Crime|Thriller;21/09/1982;0,75;83454675;4,89
+423;Starlift;(no genres listed);21/03/1999;1,67;185825743;3,27
+424;Death of a Salesman;Drama;22/04/1983;1,76;195840304;4,26
+425;Amore (L'Amore);Drama;24/03/1993;2,93;326029597;2,32
+426;He Got Game;Drama;08/02/1998;0,7;7789103;2,24
+427;Above the Rim;Crime|Drama;04/06/2000;0,74;82341946;4,94
+428;Pyramid, The;Horror;04/02/1987;1,93;214756697;3,72
+429;Vinyan;Drama|Horror|Thriller;24/03/1997;3,04;338269616;4,61
+430;Secret Life of Walter Mitty, The;Comedy|Romance|Thriller;26/09/1992;2,41;268167689;1,79
+431;French Kiss;Action|Comedy|Romance;04/03/1998;1,61;179149369;4,28
+432;Bomb the System;Action|Drama;22/07/1984;1,56;173585724;3,62
+433;Edge of Madness;Drama;12/09/1999;2,01;223658529;0,12
+434;Physical Evidence;Crime|Thriller;25/01/1996;2,46;273731334;1,06
+435;PCU;Comedy;22/06/1985;1,61;179149369;1,47
+436;Topaze;Comedy;30/06/2000;0,75;83454675;1,41
+437;Here Without Me (Inja bedoone man);Drama|Film-Noir|Mystery|Romance;11/06/1987;2,76;307113204;1,91
+438;Two Bits;Drama;18/01/1986;1,95;216982155;3,52
+439;Gold of Rome (L'oro di Roma);Drama;06/12/1983;1,28;142429312;1,38
+440;A Chairy Tale;Animation|Comedy|Fantasy;29/01/1992;3,13;348284177;2,59
+441;Small Town, The (a.k.a. The Town) (Kasaba);Drama;12/09/1991;2,98;331593242;2,92
+442;Legend of Hercules, The;Action|Adventure;13/01/1999;2,94;327142326;1,25
+443;Kiss Me Deadly;Film-Noir;05/08/1983;2,36;262604044;1,44
+444;Hollywood Revue of 1929, The;Musical;16/10/1999;0,85;94581965;1,66
+445;Look Who's Talking Too;Comedy|Romance;04/02/1985;0,4;4450916;2,89
+446;I'm Not Scared (Io non ho paura);Drama|Mystery|Thriller;17/03/1984;1,28;142429312;3,32
+447;Innocent Lies;Drama|Mystery|Thriller;04/10/1989;2,05;228109445;3,85
+448;Passengers;Drama|Mystery|Thriller;23/03/1987;0,85;94581965;0,42
+449;Namesake, The;Drama|Romance;18/08/1987;1,01;112385629;3,88
+450;Pit and the Pendulum, The;Horror;04/12/1994;1,66;184713014;4,92
+451;Bribe, The;Drama|Film-Noir|Thriller;23/10/1984;2,56;284858624;3,94
+452;Blood Beast Terror, The;Crime|Horror|Mystery;18/04/1988;0,64;71214656;4,49
+453;Meantime;Comedy|Drama;27/06/2000;2,24;249251296;0,44
+454;Housebound;Comedy|Horror|Thriller;08/03/1989;2,8;31156412;1,32
+455;Hijack That Went South, The (Kaappari);Action|Comedy|Crime;10/10/1988;1,94;215869426;0,41
+456;Curve, The (Dead Man's Curve);Comedy|Drama|Mystery|Romance|Thriller;07/12/1989;4,2;46734618;2,86
+457;Dragon Ball Z: Bojack Unbound (Doragon bôru Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu);Action|Adventure|Animation|Fantasy;24/04/1995;1,86;206967594;4,34
+458;Horse Boy, The;Documentary;13/01/1989;1,24;137978396;0,1
+459;Dead Meat;Horror;18/06/1993;1,41;156894789;2,99
+460;Missing Person, The;Drama|Film-Noir|Mystery;11/03/1990;4,2;46734618;3,82
+461;Ballad of Ramblin' Jack, The;Documentary;18/11/1998;1,7;18916393;1,86
+462;Suddenly (Tan de Repente);Comedy|Drama;27/11/1983;0,51;56749179;0,46
+463;Fast Lane;Action|Drama;15/10/1993;2,61;290422269;2,63
+464;99 and 44/100% Dead;Action|Adventure|Comedy|Crime;06/05/1999;1,89;210305781;2,61
+465;The Linguists;Documentary;21/08/1995;1,49;165796621;2,53
+466;Beginning of an Unknown Era (Nachalo nevedomogo veka);Drama;16/01/1990;1,78;198065762;1,83
+467;American Pop;Animation|Musical;01/01/1994;1,33;147992957;2,52
+468;Gospel of John, The;Drama;09/04/1984;2,08;231447632;1,11
+469;Country Strong;Drama|Musical|Romance;20/07/1994;3,02;336044158;2,17
+470;Better Than Chocolate;Comedy|Romance;12/05/1988;3,45;383891505;2,83
+471;Q;Drama;19/08/1995;3,74;416160646;2,05
+472;Cardinal, The;Drama;17/08/1992;1;11127290;3,92
+473;Darling Lili;Drama|War;19/12/1985;0,81;90131049;3,27
+474;After Five in the Jungle (Nach Fünf im Urwald);Comedy|Romance;10/08/1981;1,67;185825743;2,12
+475;Eat a Bowl of Tea;Romance;27/03/1988;0,1;1112729;1,29
+476;Unsinkable Molly Brown, The;Musical;19/01/1998;2,5;27818225;0,48
+477;Good Man in Africa, A;Action|Adventure;21/02/1981;1,82;202516678;4,06
+478;Amityville 1992: It's About Time;Horror;10/03/1991;3,2;35607328;4,12
+479;Young People Fucking (a.k.a. YPF);Comedy;18/07/2000;1,8;20029122;2,91
+480;First on the Moon (Pervye na Lune);Documentary|Sci-Fi;14/03/1993;1,16;129076564;1,89
+481;Neighbors;Comedy;21/04/1998;2,79;310451391;2,07
+482;Manny;Documentary|Drama;05/03/1997;4,2;46734618;4,47
+483;Harper;Crime|Drama|Mystery;27/04/1991;1,14;126851106;1,49
+484;World According to Garp, The;Comedy|Drama|Romance;17/11/1997;2,91;323804139;2,09
+485;Sound of Thunder, A;Action|Adventure|Drama|Sci-Fi|Thriller;03/10/1982;3,36;373876944;1,43
+486;Sympathy for Delicious;Drama;17/07/2000;1,94;215869426;2,12
+487;I Will Fight No More Forever;Action|Drama|War|Western;29/04/1992;1,7;18916393;4,37
+488;Viy;Adventure|Fantasy|Mystery|Thriller;11/12/1985;1,19;132414751;4,72
+489;Choose;Crime|Drama|Horror;07/09/1990;1,35;150218415;4,81
+490;Brass Monkey;Comedy|Crime|Drama|Mystery;17/12/1996;1,84;204742136;4,18
+491;Bottle Rocket;Adventure|Comedy|Crime|Romance;13/05/2000;1,15;127963835;2,77
+492;Intruder, The;Drama;24/07/1988;0,94;104596526;4,12
+493;Good bye, Lenin!;Comedy|Drama;26/06/1989;1,4;15578206;1,78
+494;Vieraalla maalla;Comedy|Romance;19/11/1980;2,91;323804139;1,38
+495;K-11;Crime|Drama;24/08/1999;1,07;119062003;3,71
+496;Count Dracula (Nachts, wenn Dracula erwacht);Horror|Mystery;27/11/1990;1,93;214756697;3,69
+497;Beyond the Walls (Hors les murs);Drama;01/01/1988;3,32;369426028;4,03
+498;Ironclad 2: Battle for Blood;Action|Adventure;19/11/1994;0,7;7789103;2,27
+499;Eyes of Tammy Faye, The;Documentary;01/01/1988;1,4;15578206;3,29
+500;See What I'm Saying: The Deaf Entertainers Documentary;Documentary;14/12/1997;1,84;204742136;3,71
+501;Young and the Dead, The;Documentary;23/10/1985;0,7;7789103;3,06
+502;Crimson Kimono, The;Crime|Mystery|Thriller;13/10/1988;0,96;106821984;4,02
+503;Straight Time;Crime|Drama;07/09/1998;0,5;5563645;1,61
+504;Sex Positive;Documentary;19/08/1993;3,69;410597001;4,53
+505;Hiroshima;Comedy;20/08/1994;2,21;245913109;1,38
+506;Losers' Club (Kaybedenler kulübü);Comedy|Drama;01/07/1994;1,63;181374827;1,07
+507;Four Sahibjade;Animation;29/05/2000;3,8;42283702;3,96
+508;Moliere;Drama;26/07/1991;2,8;31156412;0,46
+509;Orchestra Rehearsal (Prova d'orchestra);Drama;05/02/1988;1,09;121287461;1,89
+510;Staggered;Comedy;08/04/1999;1,69;188051201;3,45
+511;Experiment in Terror;Crime|Thriller;17/09/1991;1,11;123512919;0,41
+512;Into the West;Adventure|Children;17/05/1983;1,65;183600285;1,83
+513;Adoration;Drama;11/07/1988;2,02;224771258;0,38
+514;Comfort and Joy;Comedy;09/11/1983;2,8;31156412;2,53
+515;Beyond the Sea;Drama|Musical;12/07/1998;0,6;6676374;4,73
+516;Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo);Action|Drama|War;15/03/1996;1,45;161345705;3,07
+517;Naughty Marietta;Drama|Musical;03/10/1998;2,9;32269141;2,07
+518;Acid House, The;Comedy|Drama;09/03/1997;0,74;82341946;3,41
+519;Wanda Nevada;Comedy|Mystery|Romance|Western;10/07/1993;1,65;183600285;1,19
+520;Devil Inside, The;Horror|Thriller;28/08/1993;0,1;1112729;3,55
+521;Survival of the Dead;Horror;13/09/1993;1,03;114611087;4,22
+522;Patrick;Horror|Sci-Fi|Thriller;06/05/1984;1,68;186938472;4,14
+523;Amore (L'Amore);Drama;18/06/1987;1,98;220320342;3,43
+524;Tora-san's Love Call (Otoko wa tsurai yo: Torajiro koiuta);Comedy;22/10/1983;1,75;194727575;2,48
+525;Nibelungen: Siegfried, Die;Adventure|Drama|Fantasy;02/03/1982;1,37;152443873;3,46
+526;Soldier's Daughter Never Cries, A;Drama;09/07/1997;0,77;85680133;3,25
+527;Alice's Adventures in Wonderland;Adventure|Children|Fantasy|Musical;01/09/1986;1,12;124625648;1,72
+528;Career Opportunities;Comedy|Romance;01/08/1999;0,51;56749179;1,97
+529;Poetry (Shi);Drama;02/08/1998;1,75;194727575;2,28
+530;Eureka;Drama;02/10/1993;0,97;107934713;3,56
+531;Gidget;Comedy;16/08/1990;1,66;184713014;4,74
+532;Beaches of Agnes, The (Plages d'Agnès, Les);Documentary;16/03/1992;1,65;183600285;3,37
+533;Strange One, The;Drama;03/01/1994;1,04;115723816;3,83
+534;The Baker's Wife;Comedy|Drama;22/07/1990;1,49;165796621;1,04
+535;Recipe for Love;Romance;27/12/1990;1,85;205854865;4,73
+536;Desirée;Drama|Romance;29/04/1981;2,46;273731334;1,98
+537;Kivski Freski;Drama;21/03/1984;1,31;145767499;3,92
+538;96 Minutes ;Drama|Thriller;29/01/1989;1,81;201403949;2,33
+539;Merchant of Venice, The;Comedy|Drama;18/06/1999;1,74;193614846;0,43
+540;Temptation of a Monk (You Seng);Action|Adventure|Drama|Romance;02/10/2000;2,75;306000475;3,89
+541;Infection (Kansen);Drama|Horror;05/08/1996;1,94;215869426;4,45
+542;Tales from the Golden Age (Amintiri din epoca de aur);Comedy;26/06/1985;1,23;136865667;2,52
+543;Birds of America;Comedy|Drama;08/01/1985;3,01;334931429;2,49
+544;Man's Favorite Sport?;Comedy;25/04/1992;0,3;3338187;1,84
+545;Loves of Carmen, The;Drama;12/02/1991;4,6;51185534;1,48
+546;The Fearless Four;(no genres listed);30/11/1984;1,89;210305781;1,77
+547;Madhouse;Horror|Thriller;03/11/1991;0,95;105709255;3,65
+548;Macon County Line;Action|Drama;13/06/1986;2,03;225883987;3,34
+549;Magic;Drama|Horror|Romance|Thriller;19/11/1995;1;11127290;4,93
+550;Portraits of Women (Naisenkuvia);Comedy|Drama;07/10/1999;2,28;253702212;4,38
+551;Nob Hill;Drama|Musical;28/07/1993;1,5;16690935;4,97
+552;Horse Whisperer, The;Drama|Romance;14/02/1996;0,8;8901832;1,52
+553;Tropic Thunder;Action|Adventure|Comedy|War;12/01/1988;2,46;273731334;4,47
+554;Theremin: An Electronic Odyssey;Documentary;06/11/1983;4,7;52298263;3,33
+555;Burma VJ: Reporting from a Closed Country (Burma VJ: Reporter i et lukket land);Documentary;06/01/1990;1,5;16690935;2,31
+556;Piece of the Action, A;Crime|Drama;20/05/1986;0,83;92356507;2,91
+557;The Dark Horse;Comedy;21/02/1995;1,31;145767499;1,31
+558;Witch Hunt;Documentary;09/05/1991;3,38;376102402;1,59
+559;O.C. and Stiggs;Comedy;28/07/1984;1,14;126851106;2,42
+560;Jeff, Who Lives at Home;Comedy|Drama;02/08/1984;2,36;262604044;1,94
+561;Brice Man, The (Brice de Nice);Comedy;08/12/1997;1,07;119062003;2,66
+562;Comrades;Drama;03/06/1989;1,3;14465477;0,38
+563;Fara;Drama;05/07/1988;0,88;97920152;1,52
+564;Twelfth Night;Comedy|Drama|Romance;11/02/1991;3,31;368313299;4,02
+565;Carnosaur 2;Horror|Sci-Fi;06/12/1994;2,63;292647727;2,26
+566;Training Day;Crime|Drama|Thriller;08/04/1997;1,71;190276659;3,16
+567;Twenty Days Without War (Dvadtsat dney bez voyny);Drama|Romance|War;14/05/1986;1,36;151331144;2,41
+568;Thin Blue Lie, The;Drama;26/09/1985;1,63;181374827;0,44
+569;It's a Small World;Comedy;02/04/1981;1,35;150218415;2,55
+570;Curse of the Ring (Ring of the Nibelungs);Action|Adventure|Drama|Fantasy;16/08/1993;1,03;114611087;3,33
+571;Shadow Riders, The;Romance|Western;18/07/1983;2,3;25592767;2,31
+572;Untamed Youth;Drama;03/10/1992;1,41;156894789;1,99
+573;Clockstoppers;Action|Adventure|Sci-Fi|Thriller;07/10/1990;1,5;16690935;2,72
+574;Stake Land;Horror;14/06/1983;1,4;15578206;1,03
+575;Santa Claus Conquers the Martians;Fantasy|Sci-Fi;31/03/1991;2,16;240349464;2,54
+576;Antz;Adventure|Animation|Children|Comedy|Fantasy;11/02/1988;1,7;18916393;1,06
+577;The House of Intrigue;Drama|War;12/08/1983;1,53;170247537;0,37
+578;Bus Stop;Comedy|Drama|Romance;29/11/1990;2,46;273731334;1,19
+579;Babe: Pig in the City;Adventure|Children|Drama;06/04/1991;3,6;40058244;2,31
+580;Sierra, La;Documentary;28/07/1995;3,81;423949749;4,52
+581;Day and Night (Dag och natt);Drama;21/08/1998;2;22254580;4,55
+582;Caesar (Julius Caesar);Drama|War;17/09/1995;0,57;63425553;1,97
+583;Flypaper;Comedy|Crime;19/06/1982;1,72;191389388;2,35
+584;Hannibal Rising;Drama|Horror|Thriller;10/03/1996;1,42;158007518;4,06
+585;Blackbird;Drama;26/04/1988;1,1;12240019;1,25
+586;Zhou Yu's Train (Zhou Yu de huo che);Drama|Romance;01/07/1989;2,23;248138567;4,83
+587;Zack and Miri Make a Porno;Comedy|Drama|Romance;13/07/2000;0,53;58974637;2,71
+588;For Queen and Country;Drama;23/11/1981;1,38;153556602;1,43
+589;Crimson Pirate, The;Adventure|Comedy;02/03/1990;2,63;292647727;0,32
+590;Party, The;Comedy;29/01/1981;1;11127290;4,43
+591;Rapt;Drama;02/03/1997;0,98;109047442;4,12
+592;Blue City;Action|Crime|Drama;26/09/1997;1,58;175811182;4,88
+593;Leaves of Grass;Comedy|Crime|Drama|Thriller;09/02/1993;1,89;210305781;2,12
+594;I Bury the Living;Horror;24/06/1989;1,53;170247537;2,13
+595;Murder by Death;Comedy|Crime|Mystery|Thriller;16/09/1981;2,18;242574922;2,89
+596;Miss Representation;Documentary;20/06/1995;3,28;364975112;1,61
+597;Oscar and the Lady in Pink;Drama;10/05/1990;1,76;195840304;1,65
+598;Square, The (Al Midan);Documentary;02/02/1986;1,57;174698453;1,99
+599;Save the Green Planet! (Jigureul jikyeora!);Comedy|Drama|Horror|Sci-Fi|Thriller;07/09/1991;0,1;1112729;4,38
+600;Southerner, The;Drama;16/04/1993;0,6;6676374;1,98
+601;Lan Yu;Drama|Romance;18/01/1990;0,89;99032881;4,96
+602;Vince Vaughn's Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland;Comedy|Documentary;07/05/1995;1,81;201403949;4,26
+603;Menace II Society;Action|Crime|Drama;30/03/1990;0,2;2225458;2,08
+604;Ex-Girlfriends;Comedy|Drama;26/12/1996;0,6;6676374;1,26
+605;Something for Everyone;Comedy|Crime;23/05/1996;1,48;164683892;3,45
+606;Red-Headed Woman;Comedy|Romance;13/02/1991;1,9;21141851;3,48
+607;Vermin;Comedy;28/03/1994;1,8;20029122;4,12
+608;Videocracy (Videocracy - Basta apparire);Documentary;18/07/1994;0,94;104596526;0,12
+609;Black Girl (La noire de...);Drama;22/07/1991;2,28;253702212;4,36
+610;Tapestries of Hope;Documentary;17/08/1987;2,9;32269141;4,59
+611;Tactical Force;Action|Comedy|Crime|Thriller;12/02/1998;0,73;81229217;2,11
+612;Bloomington;Drama;16/03/1983;1,6;17803664;3,98
+613;Graceland;Crime|Drama|Thriller;13/07/1997;1,9;21141851;2,14
+614;Scarface;Action|Crime|Drama;01/05/1990;0,96;106821984;4,25
+615;Stopped on Track;Drama;14/03/1998;4,1;45621889;2,88
+616;Way Back, The;Drama;29/03/1996;4,8;53410992;1,32
+617;Black Heaven (L'autre monde) (Other World, The);Drama;14/04/1999;0,73;81229217;1,64
+618;Mare Nostrum;War;04/07/1998;1,19;132414751;1,21
+619;White Shadow, The;Drama;22/05/1983;4,2;46734618;1,12
+620;Hysteria: The Def Leppard Story;Drama;29/01/1998;0,89;99032881;1,01
+621;Slap Her... She's French (a.k.a. She Gets What She Wants);Comedy;18/12/1988;1,72;191389388;3,49
+622;Chasing Papi (a.k.a. Papi Chulo);Comedy;03/11/1992;0,85;94581965;1,91
+623;Hit the Bank (Vabank);Comedy|Crime;14/06/1994;0,98;109047442;2,49
+624;Newburgh Sting, The;Documentary;05/06/1988;0,9;10014561;2,59
+625;A Viking Saga: The Darkest Day;Action|Adventure|Thriller;24/12/1993;2,35;261491315;4,77
+626;Hammer of the Gods;Action;26/04/1987;1,58;175811182;4,01
+627;Saint of Fort Washington, The;Drama;17/10/1985;0,92;102371068;1,54
+628;Jack Frost;Children;13/07/1988;1,37;152443873;2,13
+629;Tell Them Willie Boy is Here;Drama|Western;28/09/1992;0,6;6676374;1,49
+630;Death of a Salesman;Drama;18/11/1984;0,1;1112729;3,09
+631;Impromptu;Comedy|Romance;01/09/1995;2,13;237011277;3,41
+632;Long Weekend;Horror|Mystery|Thriller;13/05/1996;1,76;195840304;0,38
+633;Tooth & Nail;Drama|Horror|Sci-Fi;12/02/1995;3,11;346058719;1,85
+634;The Inhabited Island;Fantasy|Sci-Fi;26/07/1999;1,2;13352748;2,51
+635;Band of Outsiders (Bande à part);Comedy|Crime|Drama|Romance;24/05/2000;1,57;174698453;0,39
+636;Rachel, Rachel;Drama|Romance;26/03/1984;1,32;146880228;3,52
+637;Adventures of Mary-Kate and Ashley, The: The Case of the United States Navy Adventure;Children|Musical|Mystery;28/03/1992;0,58;64538282;2,18
+638;Judge, The;Drama;12/08/1996;2,6;28930954;4,21
+639;Comedy of Power (Ivresse du pouvoir, L');Drama;30/12/1988;1,32;146880228;2,32
+640;Bridge Too Far, A;Action|Drama|War;02/07/1988;0,93;103483797;2,32
+641;Lost Patrol, The;Adventure|Drama|War;17/04/1992;4,6;51185534;0,25
+642;My Mom's New Boyfriend;Action|Comedy|Romance|Thriller;16/09/1998;1,92;213643968;4,67
+643;Little Soldier (Lille soldat);Drama;07/12/1993;0,97;107934713;0,26
+644;Zero Charisma;Comedy|Drama;22/10/1982;4,2;46734618;3,64
+645;From Hell It Came;Horror;04/07/1997;1,9;21141851;4,32
+646;Jarhead 2: Field of Fire;Action|Drama|War;19/03/1981;0,6;6676374;2,77
+647; Days of Summer;Comedy|Drama|Romance;10/05/1991;1,47;163571163;3,29
+648;Nightwatch;Horror|Thriller;16/05/1989;1,55;172472995;1,88
+649;Blind Alley;Crime;10/09/1997;1,89;210305781;1,44
+650;Date Movie;Comedy|Romance;26/11/1998;1,19;132414751;3,26
+651;Yes Man;Comedy;02/05/1997;0,54;60087366;3,29
+652;Extreme Movie;Comedy;26/02/1982;0,97;107934713;4,31
+653;Accepted;Comedy;14/03/1991;0,83;92356507;3,43
+654;Frozen Hell (Jäämarssi) ;Documentary|War;23/10/1990;2,7;30043683;0,41
+655;Tell No One (Ne le dis à personne);Crime|Drama|Mystery|Thriller;21/11/1980;2,14;238124006;2,65
+656;Love;Drama|Sci-Fi;18/02/1984;0,86;95694694;2,39
+657;Savages, The;Comedy|Drama;09/08/1986;2,13;237011277;4,19
+658;Pageant;Documentary;01/01/1986;2,7;30043683;1,53
+659;Caltiki the Undying Monster;Adventure|Horror|Sci-Fi|Thriller;14/05/1998;3,5;38945515;3,94
+660;Joe Dirt;Adventure|Comedy|Mystery|Romance;22/03/1998;1,47;163571163;2,59
+661;Shackleton's Antarctic Adventure;Documentary|IMAX;22/12/1985;1,6;17803664;1,81
+662;Breakin';Drama|Musical;02/01/1987;3,95;439527955;4,88
+663;Friday the 13th Part 2;Horror;15/09/1989;1,75;194727575;3,67
+664;Cat Run;Action|Comedy;03/02/1998;1,5;16690935;3,51
+665;Resurrection, A;Horror|Thriller;06/12/1989;1,6;17803664;2,69
+666;Temptations, The;Drama|Musical;21/01/1986;0,84;93469236;3,65
+667;Lulu in Berlin;Documentary;16/11/1982;0,83;92356507;3,26
+668;Like Minds (Murderous Intent);Crime|Mystery|Thriller;29/04/1992;0,56;62312824;3,18
+669;Wooden Bridge, The;Drama|Romance;10/04/1998;1,65;183600285;1,85
+670;Substance of Fire, The;Drama;04/10/1983;2,88;320465952;2,19
+671;Puckoon;Comedy;02/06/1995;0,91;101258339;0,3
+672;Red Riding: 1974;Crime|Drama|Mystery|Thriller;25/11/1998;3,44;382778776;3,78
+673;Rachel Getting Married;Drama|Romance;14/01/1994;1,64;182487556;3,82
+674;Reconstruction (Anaparastasi);Crime|Drama;16/12/1997;4,5;50072805;2,06
+675;Lay the Favorite;Comedy;08/06/1982;1,1;12240019;3,13
+676;Den tatuerade änkan (Tattooed Widow, The) ;Comedy|Drama|Romance;27/11/1990;2,11;234785819;3,72
+677;Tuxedo, The;Action|Comedy;26/12/1997;1,63;181374827;0,1
+678;Kingsman: The Secret Service;Action|Adventure|Comedy|Crime;29/11/1984;1;11127290;0,23
+679;If You Are the One;Comedy|Romance;22/12/1998;1,78;198065762;4,04
+680;Tim and Eric's Billion Dollar Movie;Comedy;20/11/1985;1,55;172472995;2,16
+681;Lucia;Drama|Romance|Sci-Fi|Thriller;26/01/1990;4,8;53410992;2,66
+682;Claymation Christmas Celebration, A;Animation|Children|Comedy|Musical;19/08/1993;0,85;94581965;4,78
+683;Villa Amalia;Drama|Romance;05/10/1980;1,28;142429312;3,03
+684;Honeymoons;Comedy;10/02/1996;1,57;174698453;3,57
+685;North West Frontier;Adventure|Drama|War;08/05/1989;1,75;194727575;3,82
+686;Space Raiders;Action|Adventure|Sci-Fi|Western;31/12/1982;3,8;42283702;1,01
+687;Mystery of the Yellow Room, The (Mystère de la chambre jaune, Le);Comedy|Crime|Mystery;14/04/1984;2,14;238124006;1,41
+688;Shadows;Drama;26/08/1988;1,83;203629407;2,28
+689;Legally Blonde;Comedy|Romance;19/11/1988;1,3;14465477;2,55
+690;Logan's Run;Action|Adventure|Sci-Fi;04/02/1990;0,86;95694694;4,02
+691;Pretty Cool;Action|Comedy|Thriller;06/10/1991;2,87;319353223;2,08
+692;Bleeding House, The;Drama|Horror|Mystery|Thriller;16/03/1986;1,57;174698453;3,29
+693;Evil Aliens;Comedy|Horror|Sci-Fi;08/08/1990;1,85;205854865;3,61
+694;A Promise;Drama|Romance;29/12/1982;1,35;150218415;4,74
+695;King, The;Drama;12/08/1999;1,96;218094884;4,01
+696;Small Town in Texas, A;Action|Adventure|Crime|Drama|Romance;18/05/1984;0,67;74552843;2,32
+697;Holy Smoke;Comedy|Drama;25/07/1985;0,61;67876469;1,09
+698;Bill & Ted's Bogus Journey;Adventure|Comedy|Fantasy|Sci-Fi;04/08/1982;0,56;62312824;1,63
+699;Extra Man, The;Comedy;21/07/1993;1,62;180262098;3,87
+700;Lineup, The;Crime|Drama|Film-Noir;19/04/1995;2,6;28930954;1,52
+701;Film About a Woman Who...;Drama;09/05/1999;1,73;192502117;1,51
+702;Lebanon, Pa.;Drama;19/07/1990;2,97;330480513;2,85
+703;Pépé le Moko;Crime|Drama|Romance;01/06/1987;0,8;8901832;3,27
+704;The Big Sleep;Thriller;15/08/1985;1,35;150218415;2,25
+705;Spark: A Burning Man Story;Action|Documentary|Drama;11/04/1981;2,22;247025838;3,54
+706;Never on Sunday (Pote tin Kyriaki);Comedy|Drama;17/03/1987;1,05;116836545;1,62
+707;King Lines;Adventure;21/06/2000;1,1;12240019;2,02
+708;Muppet Christmas Carol, The;Children|Comedy|Musical;02/11/1993;2,26;251476754;3,93
+709;Eat a Bowl of Tea;Romance;12/08/1986;1,89;210305781;2,89
+710;Sound of Fury, The;Crime|Drama|Film-Noir;19/11/1994;0,76;84567404;3,97
+711;Fitna;Documentary;19/03/2000;0,74;82341946;4,28
+712;Two Crimes (Dos crímenes);Comedy|Crime|Drama;30/04/1997;1,1;12240019;2,24
+713;Somers Town;Drama;25/05/1991;1,37;152443873;2,79
+714;Go;Comedy|Crime;09/08/1995;0,57;63425553;3,85
+715;Halloween 5: The Revenge of Michael Myers;Horror;04/10/1997;2,94;327142326;4,44
+716;Forever Yours (Ikuisesti sinun);Documentary;26/12/1985;0,84;93469236;2,54
+717;Too Many Girls;Comedy|Musical;16/10/1990;0,3;3338187;3,73
+718;Last Kiss, The (Ultimo bacio, L');Comedy|Drama|Romance;19/11/1986;2,78;309338662;4,78
+719;Looking for Comedy in the Muslim World;Comedy;29/02/1996;4,3;47847347;4,69
+720;Extraterrestrial;Horror|Sci-Fi;15/12/1982;0,88;97920152;4,87
+721;Twins;Comedy;22/11/1986;2,53;281520437;2,59
+722;Walking on Sunshine;Musical|Romance;13/02/1983;0,67;74552843;2,82
+723;Crow: Salvation, The;Action|Horror;05/02/1999;0,5;5563645;4,45
+724;Informer, The;Crime|Drama;18/01/1985;1,04;115723816;2,19
+725;Master, The;Drama;01/03/1999;2,22;247025838;4,09
+726;Here Comes the Boom;Action|Comedy;07/05/1986;3,78;420611562;2,27
+727;Heaven Is for Real;Drama;11/02/1992;3,1;34494599;3,74
+728;Cat Ballou;Comedy|Western;09/05/1982;0,55;61200095;0,33
+729;9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn);Documentary;04/05/1981;2,7;30043683;2,44
+730;Battle for Marjah, The;Documentary|War;19/09/1991;3,4;37832786;4,52
+731;Freakonomics;Documentary;28/11/1987;2,17;241462193;3,82
+732;Just a Sigh;Drama|Romance;25/06/1983;3,1;34494599;2,38
+733;Paperhouse;Fantasy|Horror|Thriller;07/06/1995;2,46;273731334;1,76
+734;Nights of Cabiria (Notti di Cabiria, Le);Drama;05/10/1991;1,28;142429312;2,91
+735;North Star (a.k.a. Tashunga);Action|Adventure|Crime|Drama|Western;17/05/1993;2,69;299324101;2,86
+736;Too Big to Fail;Drama;16/09/1988;1,98;220320342;1,07
+737;Life Back Then (Antoki no inochi);Drama|Romance;06/12/1996;0,56;62312824;4,01
+738;Singin' in the Rain;Comedy|Musical|Romance;16/09/1983;1,69;188051201;2,26
+739;Tron: Legacy;Action|Adventure|Sci-Fi|IMAX;12/02/1981;1,75;194727575;3,71
+740;Message from Akira Kurosawa: For Beautiful Movies, A (Kurosawa Akira kara no messêji: Utsukushii eiga o);Documentary;12/09/1986;0,93;103483797;4,75
+741;Trust;Comedy|Drama|Romance;18/08/1995;1,77;196953033;1,44
+742;Legends of the Fall;Drama|Romance|War|Western;15/07/1991;0,56;62312824;0,46
+743;Feeling Minnesota;Drama|Romance;04/12/1991;0,55;61200095;0,15
+744;Banshee Chapter, The;Horror|Thriller;13/04/1982;1,13;125738377;2,13
+745;Dragonlance: Dragons of Autumn Twilight;Action|Adventure|Animation|Fantasy;23/08/1994;1,36;151331144;2,53
+746;Evening;Drama;15/03/1989;0,84;93469236;3,79
+747;Next of Kin;Action|Crime|Thriller;05/02/1985;4,1;45621889;2,85
+748;Court Jester, The;Adventure|Comedy|Musical;12/08/1996;0,93;103483797;2,95
+749;Jezebel;Drama;27/08/1993;0,4;4450916;3,18
+750;Crimes of Fashion;Comedy;18/06/1986;2,15;239236735;3,28
+751;Mummy Returns, The;Action|Adventure|Comedy|Thriller;15/04/1998;0,87;96807423;0,26
+752;No Reservations;Comedy|Drama|Romance;25/09/1995;0,3;3338187;3,02
+753;Crime After Crime;Documentary;14/05/1997;1,62;180262098;4,95
+754;Circus;Crime|Drama|Thriller;19/04/1992;2,52;280407708;3,58
+755;Man Who Left His Will on Film, The (Tôkyô sensô sengo hiwa);Drama;15/02/1981;4,1;45621889;2,42
+756;Anguish (Angustia);Horror;29/07/1996;2,98;331593242;0,33
+757;Alexandra (Aleksandra);Drama|War;25/03/1989;0,71;79003759;0,24
+758;I Can't Sleep (J'ai pas sommeil);Drama|Thriller;11/11/1990;1,55;172472995;1,29
+759;Any Number Can Play;Drama;06/09/1993;1,14;126851106;3,44
+760;The Inspector;Drama|Romance;21/01/1991;1,3;14465477;4,81
+761;Joseph and the Amazing Technicolor Dreamcoat;Musical;17/05/1990;1,44;160232976;4,91
+762;Wattstax;Documentary|Musical;28/09/1989;0,91;101258339;4,79
+763;Recruiter, The;Documentary;05/07/1981;0,73;81229217;3,53
+764;Double Hour, The (La doppia ora);Crime|Drama|Mystery|Romance|Thriller;16/12/1998;1,2;13352748;2,48
+765;Mushrooming (Seenelkäik);Adventure|Comedy|Thriller;04/08/1984;1,47;163571163;0,33
+766;World War Z;Action|Drama|Horror|IMAX;10/05/1982;1,44;160232976;2,07
+767;Magic of Ordinary Days, The;Drama;04/03/1992;2,8;31156412;3,16
+768;Nude Nuns with Big Guns;Action|Comedy;03/06/1987;0,66;73440114;4,66
+769;Hickey and Boggs;Crime|Drama|Film-Noir|Thriller;30/11/1986;1,43;159120247;2,83
+770;Kid Brother, The;Children|Comedy|Romance;12/07/1995;2,2;24480038;3,01
+771;MacArthur;Drama;28/10/1982;2,52;280407708;3,65
+772;Hulk Vs.;Animation;26/09/1986;1,2;13352748;2,09
+773;Mona Lisa;Comedy|Thriller;01/05/1981;0,62;68989198;4,87
+774;Letters from Iwo Jima;Drama|War;04/10/2000;4,7;52298263;2,94
+775;Clean and Sober;Drama;26/05/1996;1,33;147992957;1,75
+776;Rough Magic;Drama|Romance;03/10/1982;0,85;94581965;1,78
+777;Blackbird, The;Crime|Drama;29/09/1985;1,65;183600285;3,31
+778;Kaspar Hauser;Drama|Mystery;14/01/1988;1,82;202516678;3,38
+779;Lost Battalion, The;Action|Drama|War;13/09/1986;1,17;130189293;4,73
+780;Eternal Sunshine of the Spotless Mind;Drama|Romance|Sci-Fi;24/08/1994;2,11;234785819;4,44
+781;Chronos;Documentary|IMAX;05/11/1989;1,93;214756697;1,59
+782;Ordinary Decent Criminal;Comedy|Crime;07/09/1984;1,36;151331144;3,72
+783;Chicago 10;Animation|Documentary;18/06/1991;0,8;8901832;1,83
+784;Rio Rita;Comedy|Musical|Romance;03/01/1985;1,75;194727575;1,37
+785;Safe;Thriller;11/08/1992;3,73;415047917;0,22
+786;Turtles Can Fly (Lakposhtha hâm parvaz mikonand);Drama|War;25/05/2000;2,31;257040399;1,15
+787;Joan of Paris;Drama|Romance|War;24/12/1995;1,48;164683892;2,93
+788;Hi Diddle Diddle;Comedy;25/03/1999;1,67;185825743;4,02
+789;Broken Blossoms or The Yellow Man and the Girl;Drama|Romance;19/01/2000;1,92;213643968;3,74
+790;The Heart of the World;Drama|Fantasy;04/10/1999;0,8;8901832;3,44
+791;Love Loves Coincidences;Drama|Romance;05/05/1998;1,8;20029122;1,63
+792;In God's Hands;Action|Drama;25/11/1994;0,61;67876469;4,51
+793;Experience Preferred... But Not Essential;Drama;13/12/1986;1,64;182487556;3,52
+794;Electric Horseman, The;Comedy|Western;23/08/1988;1,11;123512919;4,91
+795;Out of Time;Crime|Drama|Thriller;30/08/1991;0,1;1112729;3,14
+796;Going Places (Valseuses, Les);Comedy|Crime|Drama;25/08/1982;2,87;319353223;1,25
+797;Goliath Awaits;Drama|Sci-Fi|War;23/04/1981;3,04;338269616;1,09
+798;Corn Is Green, The;Drama;17/05/1999;2,46;273731334;4,41
+799;Satyricon;Drama;19/02/1993;2,01;223658529;3,67
+800;Dark House, The (Dom zly);Crime|Drama|Thriller;14/08/1990;1,53;170247537;3,39
+801;Life Without Dick;Comedy|Crime|Romance;14/01/1996;1,84;204742136;1,25
+802;Alex and Emma;Comedy|Drama|Romance;19/08/1987;2,39;265942231;1,87
+803;Frontière(s);Drama|Horror|Thriller;10/06/1988;0,4;4450916;4,06
+804;Kiss Them for Me;Comedy|Romance|War;20/08/2000;2,94;327142326;1,24
+805;Children (Börn);Drama;02/07/1988;1,43;159120247;4,94
+806;Last Season, The;Documentary;08/04/1991;0,91;101258339;2,97
+807;Golden Boys, The;Comedy|Romance;27/01/1990;2,4;26705496;3,02
+808;Predator 2;Action|Sci-Fi|Thriller;31/05/1991;0,62;68989198;4,48
+809;Room in Rome (Habitación en Roma);Drama|Romance;15/06/1986;4,4;48960076;2,08
+810;Full Frontal;Comedy|Drama|Romance;13/03/1988;3,05;339382345;3,53
+811;Melody Time;Animation|Children|Musical;03/01/1992;0,83;92356507;3,97
+812;Dictator, The;Comedy;24/06/1996;0,57;63425553;3,69
+813;Under the Age;Drama;30/07/1995;1,16;129076564;0,36
+814;My Joy (Schastye moe);Drama;15/03/1998;2,3;25592767;1,47
+815;Tarzan Escapes;Action|Adventure;12/08/1996;0,99;110160171;2,75
+816;Métisse (Café au Lait);Comedy|Drama;20/09/1998;3,16;351622364;3,83
+817;Condition Red (Beyond the Law);Action|Drama|Thriller;19/02/1985;1,58;175811182;2,81
+818;Ishtar;Comedy;19/11/1998;1,17;130189293;0,12
+819;The Heart Machine;Drama|Thriller;13/08/1982;1,96;218094884;4,72
+820;Bitter Sugar (Azúcar amarga);Drama;25/03/1986;3,5;38945515;3,94
+821;Norwegian Ninja;Action|Comedy;30/03/1985;1,8;20029122;1,09
+822;Kummeli V;Comedy;07/10/1986;0,75;83454675;4,85
+823;Klansman, The;Action|Drama|Thriller;03/04/1995;1,6;17803664;2,15
+824;Colossal Youth (Juventude Em Marcha);Drama;19/07/1990;1,98;220320342;4,82
+825;Erotic Man, The;Drama;30/03/1991;2,33;259265857;2,25
+826;Die Hard: With a Vengeance;Action|Crime|Thriller;06/07/1993;2,16;240349464;4,98
+827;Birthday Girl;Drama|Romance;09/02/1992;0,78;86792862;3,25
+828;Salinger;Documentary;31/05/1996;2,73;303775017;3,49
+829;Go Fish;Drama|Romance;18/06/1993;4,5;50072805;4,91
+830;Métisse (Café au Lait);Comedy|Drama;25/04/1983;2,6;28930954;4,08
+831;A Christmas Kiss;Romance;24/08/1991;1,4;15578206;4,91
+832;China Blue;Documentary;12/10/1980;2,68;298211372;1,62
+833;Crazy Beautiful You;(no genres listed);03/03/1987;0,2;2225458;1,05
+834;Invitation to the Dance;Animation|Fantasy|Musical;12/08/1982;2,15;239236735;4,72
+835;Enid;Drama;19/11/1995;1,2;13352748;1,12
+836;Something New;Comedy|Drama|Romance;20/10/1989;2,7;30043683;2,29
+837;Green Street Hooligans 2;Action|Crime|Drama;19/06/1983;1,7;18916393;3,44
+838;Trip, The;Drama;07/02/1981;1,04;115723816;2,43
+839;Dirt;Comedy|Crime;17/01/1994;3,04;338269616;0,25
+840;Unbreakable;Drama|Sci-Fi;12/12/1994;0,58;64538282;2,81
+841;Lemmy;Documentary;20/04/1993;1,68;186938472;4,37
+842;Quicksand;Crime|Drama|Thriller;11/05/1995;1,88;209193052;2,96
+843;Just Wright;Comedy|Romance;07/10/1981;2,35;261491315;2,16
+844;Five Angles on Murder;Mystery;21/02/1989;2,6;28930954;4,82
+845;Life and Nothing But (Vie et rien d'autre, La);Drama;20/09/1997;2,32;258153128;2,99
+846;Stoked: The Rise and Fall of Gator;Documentary;25/08/2000;2,41;268167689;1,28
+847;Batman & Mr. Freeze: Subzero;Action|Animation|Children|Crime;01/10/1982;0,7;7789103;2,85
+848;Good Shepherd, The;Drama|Thriller;02/10/1986;2,11;234785819;1,24
+849;Heart Is Deceitful Above All Things, The;Drama;26/08/1990;4,7;52298263;0,39
+850;East Side, West Side;Crime|Drama|Romance;16/02/2000;2,6;28930954;4,43
+851;Aladdin and the King of Thieves;Animation|Children|Comedy|Fantasy|Musical|Romance;16/01/1981;0,63;70101927;3,96
+852;Familiar Ground;Comedy;04/02/1987;1,15;127963835;3,04
+853;Marooned;Drama|Sci-Fi;16/07/1985;0,7;7789103;2,86
+854;Creeping Flesh, The;Horror|Sci-Fi;21/08/1990;2,24;249251296;3,13
+855;Girl, The (Flickan);Drama;03/08/1999;3,7;41170973;3,66
+856;Finding Nemo;Adventure|Animation|Children|Comedy;28/03/1984;2,08;231447632;3,76
+857;Sky Fighters (Les Chevaliers Du Ciel);Action|Adventure;11/05/1985;2,7;30043683;2,13
+858;Alyce Kills;Horror|Thriller;06/04/1988;0,86;95694694;3,59
+859;Texasville;Drama;19/01/1995;2;22254580;3,38
+860;Peter Ibbetson;Drama|Fantasy|Romance;26/06/1987;1,21;134640209;2,42
+861;Three Stooges, The;Comedy;07/01/1993;2,88;320465952;4,53
+862;Magic Christmas Tree, The;Children|Comedy|Fantasy;10/08/1984;3,02;336044158;1,08
+863;Kevin Hart: I'm a Grown Little Man;Comedy;27/01/1992;2,44;271505876;2,14
+864;Hum Aapke Hain Koun...!;Comedy|Drama|Musical;12/06/1981;2,71;301549559;4,08
+865;Pervert's Guide to Cinema, The;Documentary;19/03/1983;1,27;141316583;0,3
+866;Under Our Skin;Documentary;06/10/1987;3,88;431738852;3,63
+867;Goon;Comedy|Drama;25/05/1983;0,9;10014561;1,34
+868;Beauty #2;Drama;14/06/1999;1,19;132414751;4,51
+869;Downloaded;Documentary;06/04/1986;0,69;76778301;2,95
+870;Silencers, The;Action|Comedy;03/12/1985;2,04;226996716;1,62
+871;Priest;Drama;19/03/1987;1,8;20029122;2,47
+872;Descendants, The;Comedy|Drama;07/12/1998;2,31;257040399;3,76
+873;Space Milkshake;Comedy|Sci-Fi;19/01/1998;1,03;114611087;3,61
+874;They Gave Him A Gun;Crime|Drama;03/10/1993;1,99;221433071;3,44
+875;Smiley;Horror;22/08/1986;0,5;5563645;2,54
+876;Thieves, The (Dodookdeul);Action|Crime;03/07/1987;0,88;97920152;1,62
+877;Like Water for Chocolate (Como agua para chocolate);Drama|Fantasy|Romance;15/11/1988;2,52;280407708;0,34
+878;Why We Fight;Documentary;22/04/1994;0,69;76778301;4,05
+879;Man with the Movie Camera, The (Chelovek s kino-apparatom);Documentary;29/02/1988;4,3;47847347;1,58
+880;Moon Over Parador;Comedy;11/12/1991;1,22;135752938;3,93
+881;Morgan!;Comedy|Drama|Fantasy;15/12/1980;0,68;75665572;2,31
+882;Stripes;Comedy|War;20/11/1995;2,01;223658529;0,31
+883;Imitation of Life;Drama|Romance;08/05/1982;3,6;40058244;4,85
+884;Choose Me;Comedy|Romance;05/04/1992;0,68;75665572;3,48
+885;Mysterious X, The (Sealed Orders) (Det hemmelighedsfulde X);Drama|War;01/01/1983;1,76;195840304;4,83
+886;Notre jour viendra;Drama;13/10/1996;0,66;73440114;3,12
+887;Boudu Saved From Drowning (Boudu sauvé des eaux);Comedy;23/09/1998;1,7;18916393;2,54
+888;Monster, The (Mostro, Il);Comedy;31/05/1994;0,4;4450916;2,32
+889;Escape (Flukt);Action|Drama;08/03/1981;0,5;5563645;2,86
+890;Bad Luck (Zezowate szczescie);Comedy;10/01/1996;0,79;87905591;3,59
+891;Tinker Tailor Soldier Spy;Drama|Film-Noir|Thriller;02/11/1984;1,26;140203854;3,24
+892;Two Brothers (Deux frères);Adventure|Children|Drama;15/09/1991;2,7;30043683;4,96
+893;From Hell It Came;Horror;24/12/1985;2,55;283745895;2,04
+894;Deathsport;Action|Sci-Fi;25/01/1999;1,04;115723816;0,48
+895;Batman Returns;Action|Crime;02/04/1997;2,19;243687651;2,05
+896;Master of the Flying Guillotine (Du bi quan wang da po xue di zi);Action;04/04/1997;2,07;230334903;4,87
+897;Green Berets, The;Action|Drama|War;26/02/1988;2,55;283745895;4,41
+898;Trial and Error;Comedy|Romance;07/12/1983;0,76;84567404;1,31
+899;Trail of the Screaming Forehead;Comedy|Sci-Fi;24/09/1981;1,09;121287461;2,71
+900;Scenes from the Class Struggle in Beverly Hills;Comedy;24/05/1984;0,64;71214656;3,51
+901;Come On, Rangers;Romance|Western;04/06/1986;0,58;64538282;2,86
+902;Bjarnfreðarson;Comedy|Drama;22/11/1988;1,67;185825743;4,24
+903;High Hopes;Comedy;18/09/1988;0,6;6676374;3,76
+904;Contagion;Sci-Fi|Thriller|IMAX;13/11/1998;1,94;215869426;1,07
+905;Innocence;Adventure|Fantasy|Horror;28/08/1985;0,56;62312824;3,74
+906;Never on Sunday (Pote tin Kyriaki);Comedy|Drama;19/02/1985;0,56;62312824;3,04
+907;Lumberjacking (Nuoruuteni savotat);Drama;26/09/1998;2,7;30043683;4,78
+908;Advance to the Rear;Comedy|War|Western;29/10/1981;1,52;169134808;1,54
+909;Trilogy of Terror;Horror|Thriller;27/05/1982;1,16;129076564;2,42
+910;Pinocchio;Animation|Children|Fantasy|Musical;01/09/1993;1,71;190276659;0,31
+911;The Last Station;Drama;03/05/1987;2,56;284858624;0,26
+912;Gate of Heavenly Peace, The;Documentary;07/05/1993;2,01;223658529;2,28
+913;Beast at Bay, A;Drama;22/07/1985;1,49;165796621;4,06
+914;City of Ghosts;Crime|Drama|Thriller;29/10/1986;1,96;218094884;4,78
+915;Forklift Driver Klaus: The First Day on the Job;Comedy|Horror;02/08/1986;0,94;104596526;3,55
+916;Bowling for Columbine;Documentary;03/06/1986;0,81;90131049;4,78
+917;Brighton Rock;Crime|Drama|Thriller;24/12/1996;1,18;131302022;0,21
+918;Daddy's Dyin'... Who's Got the Will?;Comedy;26/02/1988;2,7;30043683;1,21
+919;Chouchou;Comedy;09/08/2000;1,9;21141851;2,61
+920;Infamous;Drama;27/01/1984;4,4;48960076;4,55
+921;Madhouse;Comedy;09/07/1995;2,41;268167689;1,26
+922;Redes (Fishermen's Nets) (Wave, The);Drama;04/05/1989;1,06;117949274;1,05
+923;Big Kahuna, The;Comedy|Drama;01/01/1996;1,52;169134808;2,79
+924;Entre ses mains;Drama|Romance|Thriller;13/03/1982;2,47;274844063;1,44
+925;Thief, The (Vor);Drama;03/08/1987;1,33;147992957;4,27
+926;Dead Ringer;Drama|Thriller;04/10/1984;1,57;174698453;4,72
+927;Silent Night, Deadly Night Part 2;Comedy|Horror;30/09/1994;1,86;206967594;3,48
+928;Bank Dick, The;Comedy;05/04/1988;1,08;120174732;4,83
+929;Way Down East;Drama|Romance;09/03/1990;0,77;85680133;2,38
+930;Twilight;Crime|Drama|Thriller;16/08/1989;0,72;80116488;1,21
+931;American Mullet;Documentary;29/08/1993;1,1;12240019;1,82
+932;Happy Time, The;Comedy;04/11/1997;1,22;135752938;1,13
+933;All is Bright;Comedy|Drama;07/10/1985;1,42;158007518;0,42
+934;Rated X: A Journey Through Porn;Documentary;06/10/1994;0,84;93469236;4,88
+935;Profit, The;Drama;26/01/1994;2,45;272618605;3,62
+936;Fled;Action|Adventure;24/06/1995;1,68;186938472;4,38
+937;Twilight of a Woman's Soul (Sumerki zhenskoi dushi);Drama;23/08/2000;4,3;47847347;2,94
+938;Bustin' Loose;Comedy;02/08/1993;1,3;14465477;1,72
+939;Couples Retreat;Comedy|Romance;08/05/1999;2,34;260378586;1,42
+940;Three Strangers;Crime|Drama;21/05/1988;0,62;68989198;0,5
+941;Ripley Under Ground;Drama|Romance|Thriller;21/11/1982;2,52;280407708;1,97
+942;Jacqueline Susann's Once Is Not Enough;Drama|Romance;24/01/1983;1,55;172472995;4,72
+943;Couch Trip, The;Comedy;21/05/2000;4,3;47847347;3,73
+944;I've Loved You So Long (Il y a longtemps que je t'aime);Drama|Mystery;30/11/1981;1,31;145767499;1,41
+945;Wolves;Action|Horror;04/03/1995;1,15;127963835;2,27
+946;Kit Kittredge: An American Girl;Children|Comedy|Drama|Mystery;19/02/1987;2,57;285971353;0,32
+947;Book of Love;Comedy|Drama;30/03/2000;0,71;79003759;4,09
+948;Intact (Intacto);Thriller;31/05/1995;3,7;41170973;0,32
+949;Nobody Else But You (Poupoupidou);Comedy|Crime|Mystery;05/08/1985;3,6;40058244;2,37
+950;Lost Youth;(no genres listed);31/05/1983;2,83;314902307;1,26
+951;Bloomington;Drama;12/12/1998;1,9;21141851;1,54
+952;Forest of Bliss;Documentary;08/10/1998;1,13;125738377;1,34
+953;Egg and I, The;Comedy|Romance;24/11/1987;1,9;21141851;3,25
+954;Gamera the Brave;Action|Sci-Fi;11/11/1984;2,12;235898548;1,46
+955;Hollow Crown, The;Drama;22/12/1986;2,24;249251296;2,94
+956;Silver City;Comedy|Drama|Mystery|Thriller;28/06/1999;1,13;125738377;0,27
+957;8 1/2 (8½);Drama|Fantasy;21/09/1993;0,5;5563645;2,75
+958;Mamitas;Drama;03/03/1997;1,07;119062003;2,06
+959;1066;Action|Adventure|War;14/10/1983;1,93;214756697;3,32
+960;Beast with Five Fingers, The;Horror;13/02/1996;2,42;269280418;0,32
+961;Welcome to the South (Benvenuti al Sud);Comedy;22/01/1981;0,99;110160171;3,75
+962;Harum Scarum;Comedy|Musical;02/05/1996;0,86;95694694;3,04
+963;Thérèse;Drama;14/07/1991;1,14;126851106;2,65
+964;Wings (Krylya);Drama;16/06/1990;0,9;10014561;3,27
+965;Dial M for Murder;Crime|Mystery|Thriller;16/02/1981;1,37;152443873;2,46
+966;Barabbas;Drama;07/11/1993;0,3;3338187;2,69
+967;Courtship of Eddie's Father, The;Comedy;12/09/1984;1,73;192502117;3,89
+968;Black Eagle;Action|Drama;10/01/1997;1,48;164683892;4,07
+969;24 Hour Party People;Comedy|Drama|Musical;28/07/1986;3,56;396131524;3,91
+970;Ticket To Romance (En enkelt til Korsør);Comedy|Drama|Romance;21/01/1990;1,77;196953033;3,37
+971;Heirloom, The (Zhai Ban);Drama|Horror;16/01/1982;2,67;297098643;3,46
+972;Heat's On, The;Comedy|Musical;03/07/1997;1,73;192502117;2,29
+973;Looking for Maria Sanchez;Comedy|Romance;23/05/1997;0,88;97920152;3,62
+974;Virtual JFK: Vietnam If Kennedy Had Lived;Documentary;20/06/1997;1,12;124625648;4,21
+975;Monday;Action|Comedy|Crime|Fantasy|Thriller;02/10/1996;4,16;462895264;4,47
+976;Bring It On: Fight to the Finish;Comedy;07/11/1992;1,7;18916393;3,78
+977;Meet the Spartans;Comedy;24/03/1985;2,44;271505876;0,11
+978;1984;Drama|Sci-Fi;23/04/1995;1,6;17803664;0,44
+979;Idiocracy;Adventure|Comedy|Sci-Fi|Thriller;21/11/1995;0,95;105709255;1,81
+980;Algiers;Drama|Romance;01/10/1991;1,17;130189293;4,04
+981;Desire: The Vampire;Crime|Horror|Thriller;28/12/1995;2,13;237011277;1,88
+982;BookWars;Comedy|Crime|Documentary;13/07/1985;3,7;41170973;0,44
+983;Happiness;Comedy|Drama;04/10/1989;1,29;143542041;1,91
+984;Guru, The;Comedy|Romance;17/04/1997;1,06;117949274;4,05
+985;Lust for Gold;Romance|Western;22/05/1998;1,44;160232976;4,14
+986;Jim Gaffigan: Mr. Universe;Comedy;20/01/1989;2,01;223658529;4,28
+987;Mercy Streets;Action|Crime|Drama;03/11/1980;1,34;149105686;3,25
+988;Ninjas vs. Zombies;Action|Comedy|Fantasy|Horror;23/02/1984;1,8;20029122;3,35
+989;Headfirst;Drama;06/08/1984;1,15;127963835;4,37
+990;Chameleon (Kaméleon);Comedy|Drama|Thriller;31/03/1990;2,26;251476754;4,97
+991;8 Mile;Drama;17/06/1999;1,3;14465477;3,87
+992;Iraq for Sale: The War Profiteers;Documentary;31/10/1994;1,65;183600285;4,33
+993;Tell No One (Ne le dis à personne);Crime|Drama|Mystery|Thriller;01/11/1997;4,3;47847347;3,15
+994;Troy;Action|Adventure|Drama|War;17/09/1985;2,09;232560361;4,05
+995;Scarecrow;Drama;24/02/1981;1,18;131302022;1,51
+996;My Girlfriend's Boyfriend;Comedy|Romance;07/09/1984;2,84;316015036;3,42
+997;Stray Cat Rock: Delinquent Girl Boss (Nora-neko rokku: Onna banchô);Action|Crime;04/10/2000;2,09;232560361;4,85
+998;Taste of Others, The (Le goût des autres);Comedy|Drama|Romance;23/08/1998;2,7;30043683;1,34
+999;Relic, The;Horror|Thriller;24/03/1991;2,31;257040399;1,18
+1000;One Hundred Mornings;Drama;20/06/1989;1,15;127963835;1,28
